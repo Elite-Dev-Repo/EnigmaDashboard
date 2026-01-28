@@ -51,73 +51,71 @@ export function DataTable<TData, TValue>({
   const pageCount = table.getPageCount();
 
   return (
-    <div className="w-full">
+    <div className="w-full text-primary">
       <div className="rounded-md border bg-foreground overflow-x-auto">
-        <div className="min-w-[800px]">
-          <Table>
-            <TableHeader>
-              {table.getHeaderGroups().map((headerGroup) => (
-                <TableRow key={headerGroup.id} className="hover:bg-foreground">
-                  {headerGroup.headers.map((header) => (
-                    <TableHead key={header.id}>
-                      {header.isPlaceholder
-                        ? null
-                        : flexRender(
-                            header.column.columnDef.header,
-                            header.getContext(),
-                          )}
-                    </TableHead>
+        <Table className="min-w-[800px]">
+          <TableHeader>
+            {table.getHeaderGroups().map((headerGroup) => (
+              <TableRow key={headerGroup.id} className="hover:bg-foreground">
+                {headerGroup.headers.map((header) => (
+                  <TableHead key={header.id} className=" whitespace-nowrap">
+                    {header.isPlaceholder
+                      ? null
+                      : flexRender(
+                          header.column.columnDef.header,
+                          header.getContext(),
+                        )}
+                  </TableHead>
+                ))}
+              </TableRow>
+            ))}
+          </TableHeader>
+          <TableBody>
+            {table.getRowModel().rows?.length ? (
+              table.getRowModel().rows.map((row) => (
+                <TableRow key={row.id} className="hover:bg-background">
+                  {row.getVisibleCells().map((cell) => (
+                    <TableCell key={cell.id} className="whitespace-nowrap">
+                      {flexRender(
+                        cell.column.columnDef.cell,
+                        cell.getContext(),
+                      )}
+                    </TableCell>
                   ))}
                 </TableRow>
-              ))}
-            </TableHeader>
-            <TableBody>
-              {table.getRowModel().rows?.length ? (
-                table.getRowModel().rows.map((row) => (
-                  <TableRow
-                    key={row.id}
-                    className="text-primary/70 hover:bg-background"
-                  >
-                    {row.getVisibleCells().map((cell) => (
-                      <TableCell key={cell.id}>
-                        {flexRender(
-                          cell.column.columnDef.cell,
-                          cell.getContext(),
-                        )}
-                      </TableCell>
-                    ))}
-                  </TableRow>
-                ))
-              ) : (
-                <TableRow>
-                  <TableCell
-                    colSpan={columns.length}
-                    className="h-24 text-center"
-                  >
-                    No results.
-                  </TableCell>
-                </TableRow>
-              )}
-            </TableBody>
-          </Table>
-        </div>
+              ))
+            ) : (
+              <TableRow>
+                <TableCell
+                  colSpan={columns.length}
+                  className="h-24 text-center"
+                >
+                  No results.
+                </TableCell>
+              </TableRow>
+            )}
+          </TableBody>
+        </Table>
       </div>
 
-      <div className="flex flex-1 flex-col md:flex-row items-center justify-between gap-4 py-4">
-        <div className="flex items-center gap-2  text-sm text-primary">
+      <div className="flex flex-col md:flex-row items-center justify-between gap-4 py-4">
+        <div className="flex flex-1 items-center gap-2 text-sm text-primary">
           <span>Showing</span>
           <select
-            className="bg-foreground p-2 rounded-md font-bold outline-none"
+            className="p-2 rounded-md font-bold outline-none border border-border "
             value={table.getState().pagination.pageSize}
             onChange={(e) => table.setPageSize(Number(e.target.value))}
           >
-            {[10, 20, 50, 100].map((size) => (
-              <option key={size} value={size}>
+            {[10, 20, 50].map((size) => (
+              <option
+                className="bg-foreground text-center"
+                key={size}
+                value={size}
+              >
                 {size}
               </option>
             ))}
           </select>
-
           <span>out of {data.length}</span>
         </div>
 
@@ -126,7 +124,6 @@ export function DataTable<TData, TValue>({
             <PaginationItem>
               <Button
                 variant="ghost"
-                className="hover:bg-foreground text-primary"
                 onClick={() => table.previousPage()}
                 disabled={!table.getCanPreviousPage()}
               >
@@ -134,33 +131,31 @@ export function DataTable<TData, TValue>({
               </Button>
             </PaginationItem>
 
-            <div className="hidden sm:flex items-center text-primary">
-              {Array.from({ length: pageCount }).map((_, pageIdx) => {
+            <div className="hidden sm:flex items-center gap-1">
+              {Array.from({ length: pageCount }).map((_, i) => {
+                // Logic to show first page, last page, and pages around current
                 if (
-                  pageIdx === 0 ||
-                  pageIdx === pageCount - 1 ||
-                  (pageIdx >= currentPage - 1 && pageIdx <= currentPage + 1)
+                  i === 0 ||
+                  i === pageCount - 1 ||
+                  (i >= currentPage - 1 && i <= currentPage + 1)
                 ) {
                   return (
-                    <PaginationItem key={pageIdx}>
+                    <PaginationItem key={i}>
                       <PaginationLink
                         href="#"
                         onClick={(e) => {
                           e.preventDefault();
-                          table.setPageIndex(pageIdx);
+                          table.setPageIndex(i);
                         }}
-                        isActive={currentPage === pageIdx}
-                        className={
-                          currentPage === pageIdx ? "font-bold" : "opacity-60"
-                        }
+                        isActive={currentPage === i}
                       >
-                        {pageIdx + 1}
+                        {i + 1}
                       </PaginationLink>
                     </PaginationItem>
                   );
                 }
-                if (pageIdx === 1 || pageIdx === pageCount - 2) {
-                  return <PaginationEllipsis key={pageIdx} />;
+                if (i === 1 || i === pageCount - 2) {
+                  return <PaginationEllipsis key={i} />;
                 }
                 return null;
               })}
@@ -169,7 +164,6 @@ export function DataTable<TData, TValue>({
             <PaginationItem>
               <Button
                 variant="ghost"
-                className="hover:bg-foreground text-primary"
                 onClick={() => table.nextPage()}
                 disabled={!table.getCanNextPage()}
               >

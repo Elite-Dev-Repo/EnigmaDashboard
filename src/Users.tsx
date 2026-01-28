@@ -110,7 +110,6 @@ function Users() {
               <MoveLeft size={16} /> Back to Users
             </h2>
           </header>
-
           <div className="flex items-center justify-between mt-8">
             <h2 className="text-2xl font-semibold text-primary">
               User Details
@@ -130,70 +129,32 @@ function Users() {
               </button>
             </div>
           </div>
-
           {/* User Profile Header Card */}
-          <div className="bg-background p-6 rounded-sm w-full mt-6 shadow-sm border border-border relative">
-            <div className="flex flex-wrap items-center gap-8 mb-10">
-              <div className="flex items-center gap-4 pr-8 border-r border-gray-200">
-                <Avatar className="h-14 w-14">
+          <div className="bg-background p-6 rounded-sm shadow-sm border border-border mb-6">
+            <div className="flex flex-col lg:flex-row items-center gap-6 lg:gap-8">
+              <div className="flex flex-col sm:flex-row items-center text-center sm:text-left gap-5 lg:border-r lg:pr-8 border-gray-200 w-full lg:w-auto">
+                <Avatar className="w-20 h-20 md:w-14 md:h-14">
                   {/* <AvatarImage src={profile} /> */}
                   <AvatarFallback className="text-primary text-2xl bg-foreground">
                     {username[0]}
                   </AvatarFallback>
                 </Avatar>
                 <div>
-                  <h2 className="text-primary font-bold text-2xl">
+                  <h2 className="text-xl font-bold capitalize text-primary">
                     {username}
                   </h2>
-                  <p className="text-[14px] text-primary">@elite_developer</p>
                 </div>
               </div>
 
-              <div className="flex flex-col gap-1 px-8 border-r border-gray-200">
-                <h3 className="text-primary text-[14px] font-medium">
-                  User's Role
-                </h3>
-                <span className="flex items-center gap-1 text-[14px]">
-                  <i className="fa-solid fa-star text-yellow-500"></i>
-                  <i className="fa-regular fa-star text-yellow-500"></i>
-                  <i className="fa-regular fa-star text-yellow-500"></i>
-                </span>
+              <div className="lg:border-r px-8 border-gray-200 text-center w-full lg:w-auto">
+                <p className="text-sm text-primary font-medium">User's Role</p>
+                <div className="flex justify-center gap-1 mt-2 text-yellow-500">
+                  <p>Admin</p>
+                </div>
               </div>
-
-              <div className="flex flex-col gap-1 px-8">
-                <h3 className="text-primary font-bold text-2xl">
-                  ₦1,803,064.81
-                </h3>
-                <p className="text-[12px] text-primary font-normal">
-                  9167686804/Opay
-                </p>
-              </div>
-            </div>
-
-            <div className="w-full">
-              <ul className="flex items-center justify-between max-w-4xl text-[14px] md:text-[16px]">
-                <li className="text-primary font-medium pb-2 border-b-2 border-primary cursor-pointer px-4">
-                  General Details
-                </li>
-                <li className="text-primary opacity-70 pb-2 border-b-2 border-transparent hover:text-primary cursor-pointer px-4 transition-all">
-                  Documents
-                </li>
-                <li className="text-primary opacity-70 pb-2 border-b-2 border-transparent hover:text-primary cursor-pointer px-4 transition-all">
-                  Bank Details
-                </li>
-                <li className="text-primary opacity-70 pb-2 border-b-2 border-transparent hover:text-primary cursor-pointer px-4 transition-all">
-                  Loans
-                </li>
-                <li className="text-primary opacity-70 pb-2 border-b-2 border-transparent hover:text-primary cursor-pointer px-4 transition-all">
-                  Savings
-                </li>
-                <li className="text-primary opacity-70 pb-2 border-b-2 border-transparent hover:text-primary cursor-pointer px-4 transition-all">
-                  App and System
-                </li>
-              </ul>
             </div>
           </div>
-
+          ---
           {/* General Details Content Card */}
           <div className="bg-background p-8 rounded-sm w-full mt-6 shadow-sm border border-border">
             <DetailSection

@@ -6,15 +6,16 @@ import { ChartAreaInteractive } from "./components/ChartAreaInteractive.tsx";
 
 const Analytics = () => {
   return (
-    <section className="bg-foreground">
-      <Nav></Nav>
+    <section className="bg-foreground min-h-screen">
+      <Nav />
       <Mysidebar>
-        <div className="flex flex-col gap-4">
-          <div className="flex items-center gap-4 p-5 mx-auto w-full max-md:flex-col max-md:gap-2 max-md:p-0 ">
+        <div className="p-4 md:p-8 flex flex-col gap-6">
+          {/* Charts stack on mobile, side-by-side on large screens */}
+          <div className="flex flex-col lg:flex-row gap-6 w-full">
             <ChartAreaGradient />
             <ChartBarMultiple />
           </div>
-          <div className="p-5 mx-auto w-full max-md:p-0">
+          <div className="w-full">
             <ChartAreaInteractive />
           </div>
         </div>
