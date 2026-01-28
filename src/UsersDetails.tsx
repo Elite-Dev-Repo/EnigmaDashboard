@@ -5,9 +5,8 @@ import { MoveLeft, Star } from "lucide-react";
 import Nav from "./components/Nav";
 import Mysidebar from "./components/Mysidebar";
 import usersData from "./db.json";
-import profile from "./assets/profile.png";
 import { toast, Toaster } from "react-hot-toast";
-import { Avatar, AvatarFallback, AvatarImage } from "@/components/ui/avatar";
+import { Avatar, AvatarFallback } from "@/components/ui/avatar";
 
 interface DetailItemProps {
   label: string;
@@ -34,7 +33,7 @@ const UsersDetails = () => {
       <div className="p-20 text-center">
         <h2 className="text-2xl font-bold">User Not Found</h2>
         <button
-          onClick={() => navigate("/dashboard")}
+          onClick={() => navigate("/")}
           className="mt-4 text-primary underline"
         >
           Return to Dashboard
@@ -99,17 +98,13 @@ const UsersDetails = () => {
               <div className="lg:border-r px-8 border-gray-200 text-center w-full lg:w-auto">
                 <p className="text-sm text-primary font-medium">User's Role</p>
                 <div className="flex justify-center gap-1 mt-2 text-yellow-500">
-                  <Star size={16} fill="currentColor" />
-                  <Star size={16} className="text-gray-300" />
-                  <Star size={16} className="text-gray-300" />
+                  <p>{user.role}</p>
                 </div>
               </div>
 
               <div className="px-8 text-center lg:text-left w-full lg:w-auto">
-                <h2 className="text-xl font-bold text-primary">₦200,000.00</h2>
-                <p className="text-xs text-primary mt-1">
-                  9912345678 / Providus Bank
-                </p>
+                <h2 className="text-xl font-light text-primary">Joined</h2>
+                <p className="text-xs text-primary mt-1">{user.dateJoined}</p>
               </div>
             </div>
           </div>

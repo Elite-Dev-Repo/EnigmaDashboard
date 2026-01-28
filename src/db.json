@@ -1,4 +1,4 @@
-[
+﻿[
   {
     "id": "1",
     "organization": "Elite DEV",
@@ -13,22 +13,23 @@
       "gender": "Male",
       "maritalStatus": "Single",
       "children": "None",
-      "residence": "Parent's Apartment"
+      "residence": "Parent\u0027s Apartment"
     },
     "education": {
       "level": "B.Sc",
       "employmentStatus": "Employed",
       "sector": "FinTech",
       "duration": "2 years",
-      "officeEmail": "office1@lendsqr.com",
-      "monthlyIncome": "?200,000.00 - ?400,000.00",
+      "officeEmail": "office1@elitemail.com",
+      "monthlyIncome": "₦200,000.00 - ₦400,000.00",
       "loanRepayment": "40,000"
     },
     "socials": {
       "twitter": "@user",
       "facebook": "User Name",
       "instagram": "@user"
-    }
+    },
+    "role": "User"
   },
   {
     "id": "2",
@@ -44,22 +45,23 @@
       "gender": "Female",
       "maritalStatus": "Single",
       "children": "None",
-      "residence": "Parent's Apartment"
+      "residence": "Parent\u0027s Apartment"
     },
     "education": {
       "level": "B.Sc",
       "employmentStatus": "Employed",
       "sector": "FinTech",
       "duration": "2 years",
-      "officeEmail": "office2@lendsqr.com",
-      "monthlyIncome": "?200,000.00 - ?400,000.00",
+      "officeEmail": "office2@elitemail.com",
+      "monthlyIncome": "₦200,000.00 - ₦400,000.00",
       "loanRepayment": "40,000"
     },
     "socials": {
       "twitter": "@user",
       "facebook": "User Name",
       "instagram": "@user"
-    }
+    },
+    "role": "Guest"
   },
   {
     "id": "3",
@@ -75,22 +77,23 @@
       "gender": "Male",
       "maritalStatus": "Single",
       "children": "None",
-      "residence": "Parent's Apartment"
+      "residence": "Parent\u0027s Apartment"
     },
     "education": {
       "level": "B.Sc",
       "employmentStatus": "Employed",
       "sector": "FinTech",
       "duration": "2 years",
-      "officeEmail": "office3@lendsqr.com",
-      "monthlyIncome": "?200,000.00 - ?400,000.00",
-      "loanRepayment": "40,000"
+      "officeEmail": "office3@elitemail.com",
+      "monthlyIncome": "₦200,000.00 - ₦400,000.00",
+      "loanRepayment": "₦40,000"
     },
     "socials": {
       "twitter": "@user",
       "facebook": "User Name",
       "instagram": "@user"
-    }
+    },
+    "role": "Moderator"
   },
   {
     "id": "4",
@@ -106,22 +109,23 @@
       "gender": "Female",
       "maritalStatus": "Single",
       "children": "None",
-      "residence": "Parent's Apartment"
+      "residence": "Parent\u0027s Apartment"
     },
     "education": {
       "level": "B.Sc",
       "employmentStatus": "Employed",
       "sector": "FinTech",
       "duration": "2 years",
-      "officeEmail": "office4@lendsqr.com",
-      "monthlyIncome": "?200,000.00 - ?400,000.00",
+      "officeEmail": "office4@elitemail.com",
+      "monthlyIncome": "₦200,000.00 - ₦400,000.00",
       "loanRepayment": "40,000"
     },
     "socials": {
       "twitter": "@user",
       "facebook": "User Name",
       "instagram": "@user"
-    }
+    },
+    "role": "Guest"
   },
   {
     "id": "5",
@@ -137,22 +141,23 @@
       "gender": "Male",
       "maritalStatus": "Single",
       "children": "None",
-      "residence": "Parent's Apartment"
+      "residence": "Parent\u0027s Apartment"
     },
     "education": {
       "level": "B.Sc",
       "employmentStatus": "Employed",
       "sector": "FinTech",
       "duration": "2 years",
-      "officeEmail": "office5@lendsqr.com",
-      "monthlyIncome": "?200,000.00 - ?400,000.00",
+      "officeEmail": "office5@elitemail.com",
+      "monthlyIncome": "₦200,000.00 - ₦400,000.00",
       "loanRepayment": "40,000"
     },
     "socials": {
       "twitter": "@user",
       "facebook": "User Name",
       "instagram": "@user"
-    }
+    },
+    "role": "Guest"
   },
   {
     "id": "6",
@@ -168,22 +173,23 @@
       "gender": "Female",
       "maritalStatus": "Single",
       "children": "None",
-      "residence": "Parent's Apartment"
+      "residence": "Parent\u0027s Apartment"
     },
     "education": {
       "level": "B.Sc",
       "employmentStatus": "Employed",
       "sector": "FinTech",
       "duration": "2 years",
-      "officeEmail": "office6@lendsqr.com",
-      "monthlyIncome": "?200,000.00 - ?400,000.00",
+      "officeEmail": "office6@elitemail.com",
+      "monthlyIncome": "₦200,000.00 - ₦400,000.00",
       "loanRepayment": "40,000"
     },
     "socials": {
       "twitter": "@user",
       "facebook": "User Name",
       "instagram": "@user"
-    }
+    },
+    "role": "User"
   },
   {
     "id": "7",
@@ -199,22 +205,23 @@
       "gender": "Male",
       "maritalStatus": "Single",
       "children": "None",
-      "residence": "Parent's Apartment"
+      "residence": "Parent\u0027s Apartment"
     },
     "education": {
       "level": "B.Sc",
       "employmentStatus": "Employed",
       "sector": "FinTech",
       "duration": "2 years",
-      "officeEmail": "office7@lendsqr.com",
-      "monthlyIncome": "?200,000.00 - ?400,000.00",
+      "officeEmail": "office7@elitemail.com",
+      "monthlyIncome": "₦200,000.00 - ₦400,000.00",
       "loanRepayment": "40,000"
     },
     "socials": {
       "twitter": "@user",
       "facebook": "User Name",
       "instagram": "@user"
-    }
+    },
+    "role": "Moderator"
   },
   {
     "id": "8",
@@ -230,22 +237,23 @@
       "gender": "Female",
       "maritalStatus": "Single",
       "children": "None",
-      "residence": "Parent's Apartment"
+      "residence": "Parent\u0027s Apartment"
     },
     "education": {
       "level": "B.Sc",
       "employmentStatus": "Employed",
       "sector": "FinTech",
       "duration": "2 years",
-      "officeEmail": "office8@lendsqr.com",
-      "monthlyIncome": "?200,000.00 - ?400,000.00",
+      "officeEmail": "office8@elitemail.com",
+      "monthlyIncome": "₦200,000.00 - ₦400,000.00",
       "loanRepayment": "40,000"
     },
     "socials": {
       "twitter": "@user",
       "facebook": "User Name",
       "instagram": "@user"
-    }
+    },
+    "role": "Guest"
   },
   {
     "id": "9",
@@ -261,22 +269,23 @@
       "gender": "Male",
       "maritalStatus": "Single",
       "children": "None",
-      "residence": "Parent's Apartment"
+      "residence": "Parent\u0027s Apartment"
     },
     "education": {
       "level": "B.Sc",
       "employmentStatus": "Employed",
       "sector": "FinTech",
       "duration": "2 years",
-      "officeEmail": "office9@lendsqr.com",
-      "monthlyIncome": "?200,000.00 - ?400,000.00",
+      "officeEmail": "office9@elitemail.com",
+      "monthlyIncome": "₦200,000.00 - ₦400,000.00",
       "loanRepayment": "40,000"
     },
     "socials": {
       "twitter": "@user",
       "facebook": "User Name",
       "instagram": "@user"
-    }
+    },
+    "role": "User"
   },
   {
     "id": "10",
@@ -292,22 +301,23 @@
       "gender": "Female",
       "maritalStatus": "Single",
       "children": "None",
-      "residence": "Parent's Apartment"
+      "residence": "Parent\u0027s Apartment"
     },
     "education": {
       "level": "B.Sc",
       "employmentStatus": "Employed",
       "sector": "FinTech",
       "duration": "2 years",
-      "officeEmail": "office10@lendsqr.com",
-      "monthlyIncome": "?200,000.00 - ?400,000.00",
+      "officeEmail": "office10@elitemail.com",
+      "monthlyIncome": "₦200,000.00 - ₦400,000.00",
       "loanRepayment": "40,000"
     },
     "socials": {
       "twitter": "@user",
       "facebook": "User Name",
       "instagram": "@user"
-    }
+    },
+    "role": "Moderator"
   },
   {
     "id": "11",
@@ -323,22 +333,23 @@
       "gender": "Male",
       "maritalStatus": "Single",
       "children": "None",
-      "residence": "Parent's Apartment"
+      "residence": "Parent\u0027s Apartment"
     },
     "education": {
       "level": "B.Sc",
       "employmentStatus": "Employed",
       "sector": "FinTech",
       "duration": "2 years",
-      "officeEmail": "office11@lendsqr.com",
-      "monthlyIncome": "?200,000.00 - ?400,000.00",
+      "officeEmail": "office11@elitemail.com",
+      "monthlyIncome": "₦200,000.00 - ₦400,000.00",
       "loanRepayment": "40,000"
     },
     "socials": {
       "twitter": "@user",
       "facebook": "User Name",
       "instagram": "@user"
-    }
+    },
+    "role": "Guest"
   },
   {
     "id": "12",
@@ -354,22 +365,23 @@
       "gender": "Female",
       "maritalStatus": "Single",
       "children": "None",
-      "residence": "Parent's Apartment"
+      "residence": "Parent\u0027s Apartment"
     },
     "education": {
       "level": "B.Sc",
       "employmentStatus": "Employed",
       "sector": "FinTech",
       "duration": "2 years",
-      "officeEmail": "office12@lendsqr.com",
-      "monthlyIncome": "?200,000.00 - ?400,000.00",
+      "officeEmail": "office12@elitemail.com",
+      "monthlyIncome": "₦200,000.00 - ₦400,000.00",
       "loanRepayment": "40,000"
     },
     "socials": {
       "twitter": "@user",
       "facebook": "User Name",
       "instagram": "@user"
-    }
+    },
+    "role": "Moderator"
   },
   {
     "id": "13",
@@ -385,22 +397,23 @@
       "gender": "Male",
       "maritalStatus": "Single",
       "children": "None",
-      "residence": "Parent's Apartment"
+      "residence": "Parent\u0027s Apartment"
     },
     "education": {
       "level": "B.Sc",
       "employmentStatus": "Employed",
       "sector": "FinTech",
       "duration": "2 years",
-      "officeEmail": "office13@lendsqr.com",
-      "monthlyIncome": "?200,000.00 - ?400,000.00",
+      "officeEmail": "office13@elitemail.com",
+      "monthlyIncome": "₦200,000.00 - ₦400,000.00",
       "loanRepayment": "40,000"
     },
     "socials": {
       "twitter": "@user",
       "facebook": "User Name",
       "instagram": "@user"
-    }
+    },
+    "role": "Moderator"
   },
   {
     "id": "14",
@@ -416,22 +429,23 @@
       "gender": "Female",
       "maritalStatus": "Single",
       "children": "None",
-      "residence": "Parent's Apartment"
+      "residence": "Parent\u0027s Apartment"
     },
     "education": {
       "level": "B.Sc",
       "employmentStatus": "Employed",
       "sector": "FinTech",
       "duration": "2 years",
-      "officeEmail": "office14@lendsqr.com",
-      "monthlyIncome": "?200,000.00 - ?400,000.00",
+      "officeEmail": "office14@elitemail.com",
+      "monthlyIncome": "₦200,000.00 - ₦400,000.00",
       "loanRepayment": "40,000"
     },
     "socials": {
       "twitter": "@user",
       "facebook": "User Name",
       "instagram": "@user"
-    }
+    },
+    "role": "User"
   },
   {
     "id": "15",
@@ -447,22 +461,23 @@
       "gender": "Male",
       "maritalStatus": "Single",
       "children": "None",
-      "residence": "Parent's Apartment"
+      "residence": "Parent\u0027s Apartment"
     },
     "education": {
       "level": "B.Sc",
       "employmentStatus": "Employed",
       "sector": "FinTech",
       "duration": "2 years",
-      "officeEmail": "office15@lendsqr.com",
-      "monthlyIncome": "?200,000.00 - ?400,000.00",
+      "officeEmail": "office15@elitemail.com",
+      "monthlyIncome": "₦200,000.00 - ₦400,000.00",
       "loanRepayment": "40,000"
     },
     "socials": {
       "twitter": "@user",
       "facebook": "User Name",
       "instagram": "@user"
-    }
+    },
+    "role": "Moderator"
   },
   {
     "id": "16",
@@ -478,22 +493,23 @@
       "gender": "Female",
       "maritalStatus": "Single",
       "children": "None",
-      "residence": "Parent's Apartment"
+      "residence": "Parent\u0027s Apartment"
     },
     "education": {
       "level": "B.Sc",
       "employmentStatus": "Employed",
       "sector": "FinTech",
       "duration": "2 years",
-      "officeEmail": "office16@lendsqr.com",
-      "monthlyIncome": "?200,000.00 - ?400,000.00",
+      "officeEmail": "office16@elitemail.com",
+      "monthlyIncome": "₦200,000.00 - ₦400,000.00",
       "loanRepayment": "40,000"
     },
     "socials": {
       "twitter": "@user",
       "facebook": "User Name",
       "instagram": "@user"
-    }
+    },
+    "role": "Guest"
   },
   {
     "id": "17",
@@ -509,22 +525,23 @@
       "gender": "Male",
       "maritalStatus": "Single",
       "children": "None",
-      "residence": "Parent's Apartment"
+      "residence": "Parent\u0027s Apartment"
     },
     "education": {
       "level": "B.Sc",
       "employmentStatus": "Employed",
       "sector": "FinTech",
       "duration": "2 years",
-      "officeEmail": "office17@lendsqr.com",
-      "monthlyIncome": "?200,000.00 - ?400,000.00",
+      "officeEmail": "office17@elitemail.com",
+      "monthlyIncome": "₦200,000.00 - ₦400,000.00",
       "loanRepayment": "40,000"
     },
     "socials": {
       "twitter": "@user",
       "facebook": "User Name",
       "instagram": "@user"
-    }
+    },
+    "role": "Guest"
   },
   {
     "id": "18",
@@ -540,22 +557,23 @@
       "gender": "Female",
       "maritalStatus": "Single",
       "children": "None",
-      "residence": "Parent's Apartment"
+      "residence": "Parent\u0027s Apartment"
     },
     "education": {
       "level": "B.Sc",
       "employmentStatus": "Employed",
       "sector": "FinTech",
       "duration": "2 years",
-      "officeEmail": "office18@lendsqr.com",
-      "monthlyIncome": "?200,000.00 - ?400,000.00",
+      "officeEmail": "office18@elitemail.com",
+      "monthlyIncome": "₦200,000.00 - ₦400,000.00",
       "loanRepayment": "40,000"
     },
     "socials": {
       "twitter": "@user",
       "facebook": "User Name",
       "instagram": "@user"
-    }
+    },
+    "role": "Moderator"
   },
   {
     "id": "19",
@@ -571,22 +589,23 @@
       "gender": "Male",
       "maritalStatus": "Single",
       "children": "None",
-      "residence": "Parent's Apartment"
+      "residence": "Parent\u0027s Apartment"
     },
     "education": {
       "level": "B.Sc",
       "employmentStatus": "Employed",
       "sector": "FinTech",
       "duration": "2 years",
-      "officeEmail": "office19@lendsqr.com",
-      "monthlyIncome": "?200,000.00 - ?400,000.00",
+      "officeEmail": "office19@elitemail.com",
+      "monthlyIncome": "₦200,000.00 - ₦400,000.00",
       "loanRepayment": "40,000"
     },
     "socials": {
       "twitter": "@user",
       "facebook": "User Name",
       "instagram": "@user"
-    }
+    },
+    "role": "Moderator"
   },
   {
     "id": "20",
@@ -602,22 +621,23 @@
       "gender": "Female",
       "maritalStatus": "Single",
       "children": "None",
-      "residence": "Parent's Apartment"
+      "residence": "Parent\u0027s Apartment"
     },
     "education": {
       "level": "B.Sc",
       "employmentStatus": "Employed",
       "sector": "FinTech",
       "duration": "2 years",
-      "officeEmail": "office20@lendsqr.com",
-      "monthlyIncome": "?200,000.00 - ?400,000.00",
+      "officeEmail": "office20@elitemail.com",
+      "monthlyIncome": "₦200,000.00 - ₦400,000.00",
       "loanRepayment": "40,000"
     },
     "socials": {
       "twitter": "@user",
       "facebook": "User Name",
       "instagram": "@user"
-    }
+    },
+    "role": "User"
   },
   {
     "id": "21",
@@ -633,22 +653,23 @@
       "gender": "Male",
       "maritalStatus": "Single",
       "children": "None",
-      "residence": "Parent's Apartment"
+      "residence": "Parent\u0027s Apartment"
     },
     "education": {
       "level": "B.Sc",
       "employmentStatus": "Employed",
       "sector": "FinTech",
       "duration": "2 years",
-      "officeEmail": "office21@lendsqr.com",
-      "monthlyIncome": "?200,000.00 - ?400,000.00",
+      "officeEmail": "office21@elitemail.com",
+      "monthlyIncome": "₦200,000.00 - ₦400,000.00",
       "loanRepayment": "40,000"
     },
     "socials": {
       "twitter": "@user",
       "facebook": "User Name",
       "instagram": "@user"
-    }
+    },
+    "role": "Guest"
   },
   {
     "id": "22",
@@ -664,22 +685,23 @@
       "gender": "Female",
       "maritalStatus": "Single",
       "children": "None",
-      "residence": "Parent's Apartment"
+      "residence": "Parent\u0027s Apartment"
     },
     "education": {
       "level": "B.Sc",
       "employmentStatus": "Employed",
       "sector": "FinTech",
       "duration": "2 years",
-      "officeEmail": "office22@lendsqr.com",
-      "monthlyIncome": "?200,000.00 - ?400,000.00",
+      "officeEmail": "office22@elitemail.com",
+      "monthlyIncome": "₦200,000.00 - ₦400,000.00",
       "loanRepayment": "40,000"
     },
     "socials": {
       "twitter": "@user",
       "facebook": "User Name",
       "instagram": "@user"
-    }
+    },
+    "role": "Guest"
   },
   {
     "id": "23",
@@ -695,22 +717,23 @@
       "gender": "Male",
       "maritalStatus": "Single",
       "children": "None",
-      "residence": "Parent's Apartment"
+      "residence": "Parent\u0027s Apartment"
     },
     "education": {
       "level": "B.Sc",
       "employmentStatus": "Employed",
       "sector": "FinTech",
       "duration": "2 years",
-      "officeEmail": "office23@lendsqr.com",
-      "monthlyIncome": "?200,000.00 - ?400,000.00",
+      "officeEmail": "office23@elitemail.com",
+      "monthlyIncome": "₦200,000.00 - ₦400,000.00",
       "loanRepayment": "40,000"
     },
     "socials": {
       "twitter": "@user",
       "facebook": "User Name",
       "instagram": "@user"
-    }
+    },
+    "role": "User"
   },
   {
     "id": "24",
@@ -726,22 +749,23 @@
       "gender": "Female",
       "maritalStatus": "Single",
       "children": "None",
-      "residence": "Parent's Apartment"
+      "residence": "Parent\u0027s Apartment"
     },
     "education": {
       "level": "B.Sc",
       "employmentStatus": "Employed",
       "sector": "FinTech",
       "duration": "2 years",
-      "officeEmail": "office24@lendsqr.com",
-      "monthlyIncome": "?200,000.00 - ?400,000.00",
+      "officeEmail": "office24@elitemail.com",
+      "monthlyIncome": "₦200,000.00 - ₦400,000.00",
       "loanRepayment": "40,000"
     },
     "socials": {
       "twitter": "@user",
       "facebook": "User Name",
       "instagram": "@user"
-    }
+    },
+    "role": "Guest"
   },
   {
     "id": "25",
@@ -757,22 +781,23 @@
       "gender": "Male",
       "maritalStatus": "Single",
       "children": "None",
-      "residence": "Parent's Apartment"
+      "residence": "Parent\u0027s Apartment"
     },
     "education": {
       "level": "B.Sc",
       "employmentStatus": "Employed",
       "sector": "FinTech",
       "duration": "2 years",
-      "officeEmail": "office25@lendsqr.com",
-      "monthlyIncome": "?200,000.00 - ?400,000.00",
+      "officeEmail": "office25@elitemail.com",
+      "monthlyIncome": "₦200,000.00 - ₦400,000.00",
       "loanRepayment": "40,000"
     },
     "socials": {
       "twitter": "@user",
       "facebook": "User Name",
       "instagram": "@user"
-    }
+    },
+    "role": "Guest"
   },
   {
     "id": "26",
@@ -788,22 +813,23 @@
       "gender": "Female",
       "maritalStatus": "Single",
       "children": "None",
-      "residence": "Parent's Apartment"
+      "residence": "Parent\u0027s Apartment"
     },
     "education": {
       "level": "B.Sc",
       "employmentStatus": "Employed",
       "sector": "FinTech",
       "duration": "2 years",
-      "officeEmail": "office26@lendsqr.com",
-      "monthlyIncome": "?200,000.00 - ?400,000.00",
+      "officeEmail": "office26@elitemail.com",
+      "monthlyIncome": "₦200,000.00 - ₦400,000.00",
       "loanRepayment": "40,000"
     },
     "socials": {
       "twitter": "@user",
       "facebook": "User Name",
       "instagram": "@user"
-    }
+    },
+    "role": "Guest"
   },
   {
     "id": "27",
@@ -819,22 +845,23 @@
       "gender": "Male",
       "maritalStatus": "Single",
       "children": "None",
-      "residence": "Parent's Apartment"
+      "residence": "Parent\u0027s Apartment"
     },
     "education": {
       "level": "B.Sc",
       "employmentStatus": "Employed",
       "sector": "FinTech",
       "duration": "2 years",
-      "officeEmail": "office27@lendsqr.com",
-      "monthlyIncome": "?200,000.00 - ?400,000.00",
+      "officeEmail": "office27@elitemail.com",
+      "monthlyIncome": "₦200,000.00 - ₦400,000.00",
       "loanRepayment": "40,000"
     },
     "socials": {
       "twitter": "@user",
       "facebook": "User Name",
       "instagram": "@user"
-    }
+    },
+    "role": "User"
   },
   {
     "id": "28",
@@ -850,22 +877,23 @@
       "gender": "Female",
       "maritalStatus": "Single",
       "children": "None",
-      "residence": "Parent's Apartment"
+      "residence": "Parent\u0027s Apartment"
     },
     "education": {
       "level": "B.Sc",
       "employmentStatus": "Employed",
       "sector": "FinTech",
       "duration": "2 years",
-      "officeEmail": "office28@lendsqr.com",
-      "monthlyIncome": "?200,000.00 - ?400,000.00",
+      "officeEmail": "office28@elitemail.com",
+      "monthlyIncome": "₦200,000.00 - ₦400,000.00",
       "loanRepayment": "40,000"
     },
     "socials": {
       "twitter": "@user",
       "facebook": "User Name",
       "instagram": "@user"
-    }
+    },
+    "role": "Moderator"
   },
   {
     "id": "29",
@@ -881,22 +909,23 @@
       "gender": "Male",
       "maritalStatus": "Single",
       "children": "None",
-      "residence": "Parent's Apartment"
+      "residence": "Parent\u0027s Apartment"
     },
     "education": {
       "level": "B.Sc",
       "employmentStatus": "Employed",
       "sector": "FinTech",
       "duration": "2 years",
-      "officeEmail": "office29@lendsqr.com",
-      "monthlyIncome": "?200,000.00 - ?400,000.00",
+      "officeEmail": "office29@elitemail.com",
+      "monthlyIncome": "₦200,000.00 - ₦400,000.00",
       "loanRepayment": "40,000"
     },
     "socials": {
       "twitter": "@user",
       "facebook": "User Name",
       "instagram": "@user"
-    }
+    },
+    "role": "Guest"
   },
   {
     "id": "30",
@@ -912,22 +941,23 @@
       "gender": "Female",
       "maritalStatus": "Single",
       "children": "None",
-      "residence": "Parent's Apartment"
+      "residence": "Parent\u0027s Apartment"
     },
     "education": {
       "level": "B.Sc",
       "employmentStatus": "Employed",
       "sector": "FinTech",
       "duration": "2 years",
-      "officeEmail": "office30@lendsqr.com",
-      "monthlyIncome": "?200,000.00 - ?400,000.00",
+      "officeEmail": "office30@elitemail.com",
+      "monthlyIncome": "₦200,000.00 - ₦400,000.00",
       "loanRepayment": "40,000"
     },
     "socials": {
       "twitter": "@user",
       "facebook": "User Name",
       "instagram": "@user"
-    }
+    },
+    "role": "Moderator"
   },
   {
     "id": "31",
@@ -943,22 +973,23 @@
       "gender": "Male",
       "maritalStatus": "Single",
       "children": "None",
-      "residence": "Parent's Apartment"
+      "residence": "Parent\u0027s Apartment"
     },
     "education": {
       "level": "B.Sc",
       "employmentStatus": "Employed",
       "sector": "FinTech",
       "duration": "2 years",
-      "officeEmail": "office31@lendsqr.com",
-      "monthlyIncome": "?200,000.00 - ?400,000.00",
+      "officeEmail": "office31@elitemail.com",
+      "monthlyIncome": "₦200,000.00 - ₦400,000.00",
       "loanRepayment": "40,000"
     },
     "socials": {
       "twitter": "@user",
       "facebook": "User Name",
       "instagram": "@user"
-    }
+    },
+    "role": "Moderator"
   },
   {
     "id": "32",
@@ -974,22 +1005,23 @@
       "gender": "Female",
       "maritalStatus": "Single",
       "children": "None",
-      "residence": "Parent's Apartment"
+      "residence": "Parent\u0027s Apartment"
     },
     "education": {
       "level": "B.Sc",
       "employmentStatus": "Employed",
       "sector": "FinTech",
       "duration": "2 years",
-      "officeEmail": "office32@lendsqr.com",
-      "monthlyIncome": "?200,000.00 - ?400,000.00",
+      "officeEmail": "office32@elitemail.com",
+      "monthlyIncome": "₦200,000.00 - ₦400,000.00",
       "loanRepayment": "40,000"
     },
     "socials": {
       "twitter": "@user",
       "facebook": "User Name",
       "instagram": "@user"
-    }
+    },
+    "role": "Moderator"
   },
   {
     "id": "33",
@@ -1005,22 +1037,23 @@
       "gender": "Male",
       "maritalStatus": "Single",
       "children": "None",
-      "residence": "Parent's Apartment"
+      "residence": "Parent\u0027s Apartment"
     },
     "education": {
       "level": "B.Sc",
       "employmentStatus": "Employed",
       "sector": "FinTech",
       "duration": "2 years",
-      "officeEmail": "office33@lendsqr.com",
-      "monthlyIncome": "?200,000.00 - ?400,000.00",
+      "officeEmail": "office33@elitemail.com",
+      "monthlyIncome": "₦200,000.00 - ₦400,000.00",
       "loanRepayment": "40,000"
     },
     "socials": {
       "twitter": "@user",
       "facebook": "User Name",
       "instagram": "@user"
-    }
+    },
+    "role": "User"
   },
   {
     "id": "34",
@@ -1036,22 +1069,23 @@
       "gender": "Female",
       "maritalStatus": "Single",
       "children": "None",
-      "residence": "Parent's Apartment"
+      "residence": "Parent\u0027s Apartment"
     },
     "education": {
       "level": "B.Sc",
       "employmentStatus": "Employed",
       "sector": "FinTech",
       "duration": "2 years",
-      "officeEmail": "office34@lendsqr.com",
-      "monthlyIncome": "?200,000.00 - ?400,000.00",
+      "officeEmail": "office34@elitemail.com",
+      "monthlyIncome": "₦200,000.00 - ₦400,000.00",
       "loanRepayment": "40,000"
     },
     "socials": {
       "twitter": "@user",
       "facebook": "User Name",
       "instagram": "@user"
-    }
+    },
+    "role": "Moderator"
   },
   {
     "id": "35",
@@ -1067,22 +1101,23 @@
       "gender": "Male",
       "maritalStatus": "Single",
       "children": "None",
-      "residence": "Parent's Apartment"
+      "residence": "Parent\u0027s Apartment"
     },
     "education": {
       "level": "B.Sc",
       "employmentStatus": "Employed",
       "sector": "FinTech",
       "duration": "2 years",
-      "officeEmail": "office35@lendsqr.com",
-      "monthlyIncome": "?200,000.00 - ?400,000.00",
+      "officeEmail": "office35@elitemail.com",
+      "monthlyIncome": "₦200,000.00 - ₦400,000.00",
       "loanRepayment": "40,000"
     },
     "socials": {
       "twitter": "@user",
       "facebook": "User Name",
       "instagram": "@user"
-    }
+    },
+    "role": "User"
   },
   {
     "id": "36",
@@ -1098,22 +1133,23 @@
       "gender": "Female",
       "maritalStatus": "Single",
       "children": "None",
-      "residence": "Parent's Apartment"
+      "residence": "Parent\u0027s Apartment"
     },
     "education": {
       "level": "B.Sc",
       "employmentStatus": "Employed",
       "sector": "FinTech",
       "duration": "2 years",
-      "officeEmail": "office36@lendsqr.com",
-      "monthlyIncome": "?200,000.00 - ?400,000.00",
+      "officeEmail": "office36@elitemail.com",
+      "monthlyIncome": "₦200,000.00 - ₦400,000.00",
       "loanRepayment": "40,000"
     },
     "socials": {
       "twitter": "@user",
       "facebook": "User Name",
       "instagram": "@user"
-    }
+    },
+    "role": "User"
   },
   {
     "id": "37",
@@ -1129,22 +1165,23 @@
       "gender": "Male",
       "maritalStatus": "Single",
       "children": "None",
-      "residence": "Parent's Apartment"
+      "residence": "Parent\u0027s Apartment"
     },
     "education": {
       "level": "B.Sc",
       "employmentStatus": "Employed",
       "sector": "FinTech",
       "duration": "2 years",
-      "officeEmail": "office37@lendsqr.com",
-      "monthlyIncome": "?200,000.00 - ?400,000.00",
+      "officeEmail": "office37@elitemail.com",
+      "monthlyIncome": "₦200,000.00 - ₦400,000.00",
       "loanRepayment": "40,000"
     },
     "socials": {
       "twitter": "@user",
       "facebook": "User Name",
       "instagram": "@user"
-    }
+    },
+    "role": "Moderator"
   },
   {
     "id": "38",
@@ -1160,22 +1197,23 @@
       "gender": "Female",
       "maritalStatus": "Single",
       "children": "None",
-      "residence": "Parent's Apartment"
+      "residence": "Parent\u0027s Apartment"
     },
     "education": {
       "level": "B.Sc",
       "employmentStatus": "Employed",
       "sector": "FinTech",
       "duration": "2 years",
-      "officeEmail": "office38@lendsqr.com",
-      "monthlyIncome": "?200,000.00 - ?400,000.00",
+      "officeEmail": "office38@elitemail.com",
+      "monthlyIncome": "₦200,000.00 - ₦400,000.00",
       "loanRepayment": "40,000"
     },
     "socials": {
       "twitter": "@user",
       "facebook": "User Name",
       "instagram": "@user"
-    }
+    },
+    "role": "Moderator"
   },
   {
     "id": "39",
@@ -1191,22 +1229,23 @@
       "gender": "Male",
       "maritalStatus": "Single",
       "children": "None",
-      "residence": "Parent's Apartment"
+      "residence": "Parent\u0027s Apartment"
     },
     "education": {
       "level": "B.Sc",
       "employmentStatus": "Employed",
       "sector": "FinTech",
       "duration": "2 years",
-      "officeEmail": "office39@lendsqr.com",
-      "monthlyIncome": "?200,000.00 - ?400,000.00",
+      "officeEmail": "office39@elitemail.com",
+      "monthlyIncome": "₦200,000.00 - ₦400,000.00",
       "loanRepayment": "40,000"
     },
     "socials": {
       "twitter": "@user",
       "facebook": "User Name",
       "instagram": "@user"
-    }
+    },
+    "role": "Moderator"
   },
   {
     "id": "40",
@@ -1222,22 +1261,23 @@
       "gender": "Female",
       "maritalStatus": "Single",
       "children": "None",
-      "residence": "Parent's Apartment"
+      "residence": "Parent\u0027s Apartment"
     },
     "education": {
       "level": "B.Sc",
       "employmentStatus": "Employed",
       "sector": "FinTech",
       "duration": "2 years",
-      "officeEmail": "office40@lendsqr.com",
-      "monthlyIncome": "?200,000.00 - ?400,000.00",
+      "officeEmail": "office40@elitemail.com",
+      "monthlyIncome": "₦200,000.00 - ₦400,000.00",
       "loanRepayment": "40,000"
     },
     "socials": {
       "twitter": "@user",
       "facebook": "User Name",
       "instagram": "@user"
-    }
+    },
+    "role": "Guest"
   },
   {
     "id": "41",
@@ -1253,22 +1293,23 @@
       "gender": "Male",
       "maritalStatus": "Single",
       "children": "None",
-      "residence": "Parent's Apartment"
+      "residence": "Parent\u0027s Apartment"
     },
     "education": {
       "level": "B.Sc",
       "employmentStatus": "Employed",
       "sector": "FinTech",
       "duration": "2 years",
-      "officeEmail": "office41@lendsqr.com",
-      "monthlyIncome": "?200,000.00 - ?400,000.00",
+      "officeEmail": "office41@elitemail.com",
+      "monthlyIncome": "₦200,000.00 - ₦400,000.00",
       "loanRepayment": "40,000"
     },
     "socials": {
       "twitter": "@user",
       "facebook": "User Name",
       "instagram": "@user"
-    }
+    },
+    "role": "Guest"
   },
   {
     "id": "42",
@@ -1284,22 +1325,23 @@
       "gender": "Female",
       "maritalStatus": "Single",
       "children": "None",
-      "residence": "Parent's Apartment"
+      "residence": "Parent\u0027s Apartment"
     },
     "education": {
       "level": "B.Sc",
       "employmentStatus": "Employed",
       "sector": "FinTech",
       "duration": "2 years",
-      "officeEmail": "office42@lendsqr.com",
-      "monthlyIncome": "?200,000.00 - ?400,000.00",
+      "officeEmail": "office42@elitemail.com",
+      "monthlyIncome": "₦200,000.00 - ₦400,000.00",
       "loanRepayment": "40,000"
     },
     "socials": {
       "twitter": "@user",
       "facebook": "User Name",
       "instagram": "@user"
-    }
+    },
+    "role": "Guest"
   },
   {
     "id": "43",
@@ -1315,22 +1357,23 @@
       "gender": "Male",
       "maritalStatus": "Single",
       "children": "None",
-      "residence": "Parent's Apartment"
+      "residence": "Parent\u0027s Apartment"
     },
     "education": {
       "level": "B.Sc",
       "employmentStatus": "Employed",
       "sector": "FinTech",
       "duration": "2 years",
-      "officeEmail": "office43@lendsqr.com",
-      "monthlyIncome": "?200,000.00 - ?400,000.00",
+      "officeEmail": "office43@elitemail.com",
+      "monthlyIncome": "₦200,000.00 - ₦400,000.00",
       "loanRepayment": "40,000"
     },
     "socials": {
       "twitter": "@user",
       "facebook": "User Name",
       "instagram": "@user"
-    }
+    },
+    "role": "Guest"
   },
   {
     "id": "44",
@@ -1346,22 +1389,23 @@
       "gender": "Female",
       "maritalStatus": "Single",
       "children": "None",
-      "residence": "Parent's Apartment"
+      "residence": "Parent\u0027s Apartment"
     },
     "education": {
       "level": "B.Sc",
       "employmentStatus": "Employed",
       "sector": "FinTech",
       "duration": "2 years",
-      "officeEmail": "office44@lendsqr.com",
-      "monthlyIncome": "?200,000.00 - ?400,000.00",
+      "officeEmail": "office44@elitemail.com",
+      "monthlyIncome": "₦200,000.00 - ₦400,000.00",
       "loanRepayment": "40,000"
     },
     "socials": {
       "twitter": "@user",
       "facebook": "User Name",
       "instagram": "@user"
-    }
+    },
+    "role": "User"
   },
   {
     "id": "45",
@@ -1377,22 +1421,23 @@
       "gender": "Male",
       "maritalStatus": "Single",
       "children": "None",
-      "residence": "Parent's Apartment"
+      "residence": "Parent\u0027s Apartment"
     },
     "education": {
       "level": "B.Sc",
       "employmentStatus": "Employed",
       "sector": "FinTech",
       "duration": "2 years",
-      "officeEmail": "office45@lendsqr.com",
-      "monthlyIncome": "?200,000.00 - ?400,000.00",
+      "officeEmail": "office45@elitemail.com",
+      "monthlyIncome": "₦200,000.00 - ₦400,000.00",
       "loanRepayment": "40,000"
     },
     "socials": {
       "twitter": "@user",
       "facebook": "User Name",
       "instagram": "@user"
-    }
+    },
+    "role": "Moderator"
   },
   {
     "id": "46",
@@ -1408,22 +1453,23 @@
       "gender": "Female",
       "maritalStatus": "Single",
       "children": "None",
-      "residence": "Parent's Apartment"
+      "residence": "Parent\u0027s Apartment"
     },
     "education": {
       "level": "B.Sc",
       "employmentStatus": "Employed",
       "sector": "FinTech",
       "duration": "2 years",
-      "officeEmail": "office46@lendsqr.com",
-      "monthlyIncome": "?200,000.00 - ?400,000.00",
+      "officeEmail": "office46@elitemail.com",
+      "monthlyIncome": "₦200,000.00 - ₦400,000.00",
       "loanRepayment": "40,000"
     },
     "socials": {
       "twitter": "@user",
       "facebook": "User Name",
       "instagram": "@user"
-    }
+    },
+    "role": "User"
   },
   {
     "id": "47",
@@ -1439,22 +1485,23 @@
       "gender": "Male",
       "maritalStatus": "Single",
       "children": "None",
-      "residence": "Parent's Apartment"
+      "residence": "Parent\u0027s Apartment"
     },
     "education": {
       "level": "B.Sc",
       "employmentStatus": "Employed",
       "sector": "FinTech",
       "duration": "2 years",
-      "officeEmail": "office47@lendsqr.com",
-      "monthlyIncome": "?200,000.00 - ?400,000.00",
+      "officeEmail": "office47@elitemail.com",
+      "monthlyIncome": "₦200,000.00 - ₦400,000.00",
       "loanRepayment": "40,000"
     },
     "socials": {
       "twitter": "@user",
       "facebook": "User Name",
       "instagram": "@user"
-    }
+    },
+    "role": "User"
   },
   {
     "id": "48",
@@ -1470,22 +1517,23 @@
       "gender": "Female",
       "maritalStatus": "Single",
       "children": "None",
-      "residence": "Parent's Apartment"
+      "residence": "Parent\u0027s Apartment"
     },
     "education": {
       "level": "B.Sc",
       "employmentStatus": "Employed",
       "sector": "FinTech",
       "duration": "2 years",
-      "officeEmail": "office48@lendsqr.com",
-      "monthlyIncome": "?200,000.00 - ?400,000.00",
+      "officeEmail": "office48@elitemail.com",
+      "monthlyIncome": "₦200,000.00 - ₦400,000.00",
       "loanRepayment": "40,000"
     },
     "socials": {
       "twitter": "@user",
       "facebook": "User Name",
       "instagram": "@user"
-    }
+    },
+    "role": "Moderator"
   },
   {
     "id": "49",
@@ -1501,22 +1549,23 @@
       "gender": "Male",
       "maritalStatus": "Single",
       "children": "None",
-      "residence": "Parent's Apartment"
+      "residence": "Parent\u0027s Apartment"
     },
     "education": {
       "level": "B.Sc",
       "employmentStatus": "Employed",
       "sector": "FinTech",
       "duration": "2 years",
-      "officeEmail": "office49@lendsqr.com",
-      "monthlyIncome": "?200,000.00 - ?400,000.00",
+      "officeEmail": "office49@elitemail.com",
+      "monthlyIncome": "₦200,000.00 - ₦400,000.00",
       "loanRepayment": "40,000"
     },
     "socials": {
       "twitter": "@user",
       "facebook": "User Name",
       "instagram": "@user"
-    }
+    },
+    "role": "Guest"
   },
   {
     "id": "50",
@@ -1532,22 +1581,23 @@
       "gender": "Female",
       "maritalStatus": "Single",
       "children": "None",
-      "residence": "Parent's Apartment"
+      "residence": "Parent\u0027s Apartment"
     },
     "education": {
       "level": "B.Sc",
       "employmentStatus": "Employed",
       "sector": "FinTech",
       "duration": "2 years",
-      "officeEmail": "office50@lendsqr.com",
-      "monthlyIncome": "?200,000.00 - ?400,000.00",
+      "officeEmail": "office50@elitemail.com",
+      "monthlyIncome": "₦200,000.00 - ₦400,000.00",
       "loanRepayment": "40,000"
     },
     "socials": {
       "twitter": "@user",
       "facebook": "User Name",
       "instagram": "@user"
-    }
+    },
+    "role": "Moderator"
   },
   {
     "id": "51",
@@ -1563,22 +1613,23 @@
       "gender": "Male",
       "maritalStatus": "Single",
       "children": "None",
-      "residence": "Parent's Apartment"
+      "residence": "Parent\u0027s Apartment"
     },
     "education": {
       "level": "B.Sc",
       "employmentStatus": "Employed",
       "sector": "FinTech",
       "duration": "2 years",
-      "officeEmail": "office51@lendsqr.com",
-      "monthlyIncome": "?200,000.00 - ?400,000.00",
+      "officeEmail": "office51@elitemail.com",
+      "monthlyIncome": "₦200,000.00 - ₦400,000.00",
       "loanRepayment": "40,000"
     },
     "socials": {
       "twitter": "@user",
       "facebook": "User Name",
       "instagram": "@user"
-    }
+    },
+    "role": "Moderator"
   },
   {
     "id": "52",
@@ -1594,22 +1645,23 @@
       "gender": "Female",
       "maritalStatus": "Single",
       "children": "None",
-      "residence": "Parent's Apartment"
+      "residence": "Parent\u0027s Apartment"
     },
     "education": {
       "level": "B.Sc",
       "employmentStatus": "Employed",
       "sector": "FinTech",
       "duration": "2 years",
-      "officeEmail": "office52@lendsqr.com",
-      "monthlyIncome": "?200,000.00 - ?400,000.00",
+      "officeEmail": "office52@elitemail.com",
+      "monthlyIncome": "₦200,000.00 - ₦400,000.00",
       "loanRepayment": "40,000"
     },
     "socials": {
       "twitter": "@user",
       "facebook": "User Name",
       "instagram": "@user"
-    }
+    },
+    "role": "User"
   },
   {
     "id": "53",
@@ -1625,22 +1677,23 @@
       "gender": "Male",
       "maritalStatus": "Single",
       "children": "None",
-      "residence": "Parent's Apartment"
+      "residence": "Parent\u0027s Apartment"
     },
     "education": {
       "level": "B.Sc",
       "employmentStatus": "Employed",
       "sector": "FinTech",
       "duration": "2 years",
-      "officeEmail": "office53@lendsqr.com",
-      "monthlyIncome": "?200,000.00 - ?400,000.00",
+      "officeEmail": "office53@elitemail.com",
+      "monthlyIncome": "₦200,000.00 - ₦400,000.00",
       "loanRepayment": "40,000"
     },
     "socials": {
       "twitter": "@user",
       "facebook": "User Name",
       "instagram": "@user"
-    }
+    },
+    "role": "Guest"
   },
   {
     "id": "54",
@@ -1656,22 +1709,23 @@
       "gender": "Female",
       "maritalStatus": "Single",
       "children": "None",
-      "residence": "Parent's Apartment"
+      "residence": "Parent\u0027s Apartment"
     },
     "education": {
       "level": "B.Sc",
       "employmentStatus": "Employed",
       "sector": "FinTech",
       "duration": "2 years",
-      "officeEmail": "office54@lendsqr.com",
-      "monthlyIncome": "?200,000.00 - ?400,000.00",
+      "officeEmail": "office54@elitemail.com",
+      "monthlyIncome": "₦200,000.00 - ₦400,000.00",
       "loanRepayment": "40,000"
     },
     "socials": {
       "twitter": "@user",
       "facebook": "User Name",
       "instagram": "@user"
-    }
+    },
+    "role": "User"
   },
   {
     "id": "55",
@@ -1687,22 +1741,23 @@
       "gender": "Male",
       "maritalStatus": "Single",
       "children": "None",
-      "residence": "Parent's Apartment"
+      "residence": "Parent\u0027s Apartment"
     },
     "education": {
       "level": "B.Sc",
       "employmentStatus": "Employed",
       "sector": "FinTech",
       "duration": "2 years",
-      "officeEmail": "office55@lendsqr.com",
-      "monthlyIncome": "?200,000.00 - ?400,000.00",
+      "officeEmail": "office55@elitemail.com",
+      "monthlyIncome": "₦200,000.00 - ₦400,000.00",
       "loanRepayment": "40,000"
     },
     "socials": {
       "twitter": "@user",
       "facebook": "User Name",
       "instagram": "@user"
-    }
+    },
+    "role": "User"
   },
   {
     "id": "56",
@@ -1718,22 +1773,23 @@
       "gender": "Female",
       "maritalStatus": "Single",
       "children": "None",
-      "residence": "Parent's Apartment"
+      "residence": "Parent\u0027s Apartment"
     },
     "education": {
       "level": "B.Sc",
       "employmentStatus": "Employed",
       "sector": "FinTech",
       "duration": "2 years",
-      "officeEmail": "office56@lendsqr.com",
-      "monthlyIncome": "?200,000.00 - ?400,000.00",
+      "officeEmail": "office56@elitemail.com",
+      "monthlyIncome": "₦200,000.00 - ₦400,000.00",
       "loanRepayment": "40,000"
     },
     "socials": {
       "twitter": "@user",
       "facebook": "User Name",
       "instagram": "@user"
-    }
+    },
+    "role": "Moderator"
   },
   {
     "id": "57",
@@ -1749,22 +1805,23 @@
       "gender": "Male",
       "maritalStatus": "Single",
       "children": "None",
-      "residence": "Parent's Apartment"
+      "residence": "Parent\u0027s Apartment"
     },
     "education": {
       "level": "B.Sc",
       "employmentStatus": "Employed",
       "sector": "FinTech",
       "duration": "2 years",
-      "officeEmail": "office57@lendsqr.com",
-      "monthlyIncome": "?200,000.00 - ?400,000.00",
+      "officeEmail": "office57@elitemail.com",
+      "monthlyIncome": "₦200,000.00 - ₦400,000.00",
       "loanRepayment": "40,000"
     },
     "socials": {
       "twitter": "@user",
       "facebook": "User Name",
       "instagram": "@user"
-    }
+    },
+    "role": "User"
   },
   {
     "id": "58",
@@ -1780,22 +1837,23 @@
       "gender": "Female",
       "maritalStatus": "Single",
       "children": "None",
-      "residence": "Parent's Apartment"
+      "residence": "Parent\u0027s Apartment"
     },
     "education": {
       "level": "B.Sc",
       "employmentStatus": "Employed",
       "sector": "FinTech",
       "duration": "2 years",
-      "officeEmail": "office58@lendsqr.com",
-      "monthlyIncome": "?200,000.00 - ?400,000.00",
+      "officeEmail": "office58@elitemail.com",
+      "monthlyIncome": "₦200,000.00 - ₦400,000.00",
       "loanRepayment": "40,000"
     },
     "socials": {
       "twitter": "@user",
       "facebook": "User Name",
       "instagram": "@user"
-    }
+    },
+    "role": "Guest"
   },
   {
     "id": "59",
@@ -1811,22 +1869,23 @@
       "gender": "Male",
       "maritalStatus": "Single",
       "children": "None",
-      "residence": "Parent's Apartment"
+      "residence": "Parent\u0027s Apartment"
     },
     "education": {
       "level": "B.Sc",
       "employmentStatus": "Employed",
       "sector": "FinTech",
       "duration": "2 years",
-      "officeEmail": "office59@lendsqr.com",
-      "monthlyIncome": "?200,000.00 - ?400,000.00",
+      "officeEmail": "office59@elitemail.com",
+      "monthlyIncome": "₦200,000.00 - ₦400,000.00",
       "loanRepayment": "40,000"
     },
     "socials": {
       "twitter": "@user",
       "facebook": "User Name",
       "instagram": "@user"
-    }
+    },
+    "role": "Guest"
   },
   {
     "id": "60",
@@ -1842,22 +1901,23 @@
       "gender": "Female",
       "maritalStatus": "Single",
       "children": "None",
-      "residence": "Parent's Apartment"
+      "residence": "Parent\u0027s Apartment"
     },
     "education": {
       "level": "B.Sc",
       "employmentStatus": "Employed",
       "sector": "FinTech",
       "duration": "2 years",
-      "officeEmail": "office60@lendsqr.com",
-      "monthlyIncome": "?200,000.00 - ?400,000.00",
+      "officeEmail": "office60@elitemail.com",
+      "monthlyIncome": "₦200,000.00 - ₦400,000.00",
       "loanRepayment": "40,000"
     },
     "socials": {
       "twitter": "@user",
       "facebook": "User Name",
       "instagram": "@user"
-    }
+    },
+    "role": "User"
   },
   {
     "id": "61",
@@ -1873,22 +1933,23 @@
       "gender": "Male",
       "maritalStatus": "Single",
       "children": "None",
-      "residence": "Parent's Apartment"
+      "residence": "Parent\u0027s Apartment"
     },
     "education": {
       "level": "B.Sc",
       "employmentStatus": "Employed",
       "sector": "FinTech",
       "duration": "2 years",
-      "officeEmail": "office61@lendsqr.com",
-      "monthlyIncome": "?200,000.00 - ?400,000.00",
+      "officeEmail": "office61@elitemail.com",
+      "monthlyIncome": "₦200,000.00 - ₦400,000.00",
       "loanRepayment": "40,000"
     },
     "socials": {
       "twitter": "@user",
       "facebook": "User Name",
       "instagram": "@user"
-    }
+    },
+    "role": "User"
   },
   {
     "id": "62",
@@ -1904,22 +1965,23 @@
       "gender": "Female",
       "maritalStatus": "Single",
       "children": "None",
-      "residence": "Parent's Apartment"
+      "residence": "Parent\u0027s Apartment"
     },
     "education": {
       "level": "B.Sc",
       "employmentStatus": "Employed",
       "sector": "FinTech",
       "duration": "2 years",
-      "officeEmail": "office62@lendsqr.com",
-      "monthlyIncome": "?200,000.00 - ?400,000.00",
+      "officeEmail": "office62@elitemail.com",
+      "monthlyIncome": "₦200,000.00 - ₦400,000.00",
       "loanRepayment": "40,000"
     },
     "socials": {
       "twitter": "@user",
       "facebook": "User Name",
       "instagram": "@user"
-    }
+    },
+    "role": "Moderator"
   },
   {
     "id": "63",
@@ -1935,22 +1997,23 @@
       "gender": "Male",
       "maritalStatus": "Single",
       "children": "None",
-      "residence": "Parent's Apartment"
+      "residence": "Parent\u0027s Apartment"
     },
     "education": {
       "level": "B.Sc",
       "employmentStatus": "Employed",
       "sector": "FinTech",
       "duration": "2 years",
-      "officeEmail": "office63@lendsqr.com",
-      "monthlyIncome": "?200,000.00 - ?400,000.00",
+      "officeEmail": "office63@elitemail.com",
+      "monthlyIncome": "₦200,000.00 - ₦400,000.00",
       "loanRepayment": "40,000"
     },
     "socials": {
       "twitter": "@user",
       "facebook": "User Name",
       "instagram": "@user"
-    }
+    },
+    "role": "User"
   },
   {
     "id": "64",
@@ -1966,22 +2029,23 @@
       "gender": "Female",
       "maritalStatus": "Single",
       "children": "None",
-      "residence": "Parent's Apartment"
+      "residence": "Parent\u0027s Apartment"
     },
     "education": {
       "level": "B.Sc",
       "employmentStatus": "Employed",
       "sector": "FinTech",
       "duration": "2 years",
-      "officeEmail": "office64@lendsqr.com",
-      "monthlyIncome": "?200,000.00 - ?400,000.00",
+      "officeEmail": "office64@elitemail.com",
+      "monthlyIncome": "₦200,000.00 - ₦400,000.00",
       "loanRepayment": "40,000"
     },
     "socials": {
       "twitter": "@user",
       "facebook": "User Name",
       "instagram": "@user"
-    }
+    },
+    "role": "User"
   },
   {
     "id": "65",
@@ -1997,22 +2061,23 @@
       "gender": "Male",
       "maritalStatus": "Single",
       "children": "None",
-      "residence": "Parent's Apartment"
+      "residence": "Parent\u0027s Apartment"
     },
     "education": {
       "level": "B.Sc",
       "employmentStatus": "Employed",
       "sector": "FinTech",
       "duration": "2 years",
-      "officeEmail": "office65@lendsqr.com",
-      "monthlyIncome": "?200,000.00 - ?400,000.00",
+      "officeEmail": "office65@elitemail.com",
+      "monthlyIncome": "₦200,000.00 - ₦400,000.00",
       "loanRepayment": "40,000"
     },
     "socials": {
       "twitter": "@user",
       "facebook": "User Name",
       "instagram": "@user"
-    }
+    },
+    "role": "User"
   },
   {
     "id": "66",
@@ -2028,22 +2093,23 @@
       "gender": "Female",
       "maritalStatus": "Single",
       "children": "None",
-      "residence": "Parent's Apartment"
+      "residence": "Parent\u0027s Apartment"
     },
     "education": {
       "level": "B.Sc",
       "employmentStatus": "Employed",
       "sector": "FinTech",
       "duration": "2 years",
-      "officeEmail": "office66@lendsqr.com",
-      "monthlyIncome": "?200,000.00 - ?400,000.00",
+      "officeEmail": "office66@elitemail.com",
+      "monthlyIncome": "₦200,000.00 - ₦400,000.00",
       "loanRepayment": "40,000"
     },
     "socials": {
       "twitter": "@user",
       "facebook": "User Name",
       "instagram": "@user"
-    }
+    },
+    "role": "User"
   },
   {
     "id": "67",
@@ -2059,22 +2125,23 @@
       "gender": "Male",
       "maritalStatus": "Single",
       "children": "None",
-      "residence": "Parent's Apartment"
+      "residence": "Parent\u0027s Apartment"
     },
     "education": {
       "level": "B.Sc",
       "employmentStatus": "Employed",
       "sector": "FinTech",
       "duration": "2 years",
-      "officeEmail": "office67@lendsqr.com",
-      "monthlyIncome": "?200,000.00 - ?400,000.00",
+      "officeEmail": "office67@elitemail.com",
+      "monthlyIncome": "₦200,000.00 - ₦400,000.00",
       "loanRepayment": "40,000"
     },
     "socials": {
       "twitter": "@user",
       "facebook": "User Name",
       "instagram": "@user"
-    }
+    },
+    "role": "Guest"
   },
   {
     "id": "68",
@@ -2090,22 +2157,23 @@
       "gender": "Female",
       "maritalStatus": "Single",
       "children": "None",
-      "residence": "Parent's Apartment"
+      "residence": "Parent\u0027s Apartment"
     },
     "education": {
       "level": "B.Sc",
       "employmentStatus": "Employed",
       "sector": "FinTech",
       "duration": "2 years",
-      "officeEmail": "office68@lendsqr.com",
-      "monthlyIncome": "?200,000.00 - ?400,000.00",
+      "officeEmail": "office68@elitemail.com",
+      "monthlyIncome": "₦200,000.00 - ₦400,000.00",
       "loanRepayment": "40,000"
     },
     "socials": {
       "twitter": "@user",
       "facebook": "User Name",
       "instagram": "@user"
-    }
+    },
+    "role": "User"
   },
   {
     "id": "69",
@@ -2121,22 +2189,23 @@
       "gender": "Male",
       "maritalStatus": "Single",
       "children": "None",
-      "residence": "Parent's Apartment"
+      "residence": "Parent\u0027s Apartment"
     },
     "education": {
       "level": "B.Sc",
       "employmentStatus": "Employed",
       "sector": "FinTech",
       "duration": "2 years",
-      "officeEmail": "office69@lendsqr.com",
-      "monthlyIncome": "?200,000.00 - ?400,000.00",
+      "officeEmail": "office69@elitemail.com",
+      "monthlyIncome": "₦200,000.00 - ₦400,000.00",
       "loanRepayment": "40,000"
     },
     "socials": {
       "twitter": "@user",
       "facebook": "User Name",
       "instagram": "@user"
-    }
+    },
+    "role": "Guest"
   },
   {
     "id": "70",
@@ -2152,22 +2221,23 @@
       "gender": "Female",
       "maritalStatus": "Single",
       "children": "None",
-      "residence": "Parent's Apartment"
+      "residence": "Parent\u0027s Apartment"
     },
     "education": {
       "level": "B.Sc",
       "employmentStatus": "Employed",
       "sector": "FinTech",
       "duration": "2 years",
-      "officeEmail": "office70@lendsqr.com",
-      "monthlyIncome": "?200,000.00 - ?400,000.00",
+      "officeEmail": "office70@elitemail.com",
+      "monthlyIncome": "₦200,000.00 - ₦400,000.00",
       "loanRepayment": "40,000"
     },
     "socials": {
       "twitter": "@user",
       "facebook": "User Name",
       "instagram": "@user"
-    }
+    },
+    "role": "Guest"
   },
   {
     "id": "71",
@@ -2183,22 +2253,23 @@
       "gender": "Male",
       "maritalStatus": "Single",
       "children": "None",
-      "residence": "Parent's Apartment"
+      "residence": "Parent\u0027s Apartment"
     },
     "education": {
       "level": "B.Sc",
       "employmentStatus": "Employed",
       "sector": "FinTech",
       "duration": "2 years",
-      "officeEmail": "office71@lendsqr.com",
-      "monthlyIncome": "?200,000.00 - ?400,000.00",
+      "officeEmail": "office71@elitemail.com",
+      "monthlyIncome": "₦200,000.00 - ₦400,000.00",
       "loanRepayment": "40,000"
     },
     "socials": {
       "twitter": "@user",
       "facebook": "User Name",
       "instagram": "@user"
-    }
+    },
+    "role": "Moderator"
   },
   {
     "id": "72",
@@ -2214,22 +2285,23 @@
       "gender": "Female",
       "maritalStatus": "Single",
       "children": "None",
-      "residence": "Parent's Apartment"
+      "residence": "Parent\u0027s Apartment"
     },
     "education": {
       "level": "B.Sc",
       "employmentStatus": "Employed",
       "sector": "FinTech",
       "duration": "2 years",
-      "officeEmail": "office72@lendsqr.com",
-      "monthlyIncome": "?200,000.00 - ?400,000.00",
+      "officeEmail": "office72@elitemail.com",
+      "monthlyIncome": "₦200,000.00 - ₦400,000.00",
       "loanRepayment": "40,000"
     },
     "socials": {
       "twitter": "@user",
       "facebook": "User Name",
       "instagram": "@user"
-    }
+    },
+    "role": "Moderator"
   },
   {
     "id": "73",
@@ -2245,22 +2317,23 @@
       "gender": "Male",
       "maritalStatus": "Single",
       "children": "None",
-      "residence": "Parent's Apartment"
+      "residence": "Parent\u0027s Apartment"
     },
     "education": {
       "level": "B.Sc",
       "employmentStatus": "Employed",
       "sector": "FinTech",
       "duration": "2 years",
-      "officeEmail": "office73@lendsqr.com",
-      "monthlyIncome": "?200,000.00 - ?400,000.00",
+      "officeEmail": "office73@elitemail.com",
+      "monthlyIncome": "₦200,000.00 - ₦400,000.00",
       "loanRepayment": "40,000"
     },
     "socials": {
       "twitter": "@user",
       "facebook": "User Name",
       "instagram": "@user"
-    }
+    },
+    "role": "User"
   },
   {
     "id": "74",
@@ -2276,22 +2349,23 @@
       "gender": "Female",
       "maritalStatus": "Single",
       "children": "None",
-      "residence": "Parent's Apartment"
+      "residence": "Parent\u0027s Apartment"
     },
     "education": {
       "level": "B.Sc",
       "employmentStatus": "Employed",
       "sector": "FinTech",
       "duration": "2 years",
-      "officeEmail": "office74@lendsqr.com",
-      "monthlyIncome": "?200,000.00 - ?400,000.00",
+      "officeEmail": "office74@elitemail.com",
+      "monthlyIncome": "₦200,000.00 - ₦400,000.00",
       "loanRepayment": "40,000"
     },
     "socials": {
       "twitter": "@user",
       "facebook": "User Name",
       "instagram": "@user"
-    }
+    },
+    "role": "Moderator"
   },
   {
     "id": "75",
@@ -2307,22 +2381,23 @@
       "gender": "Male",
       "maritalStatus": "Single",
       "children": "None",
-      "residence": "Parent's Apartment"
+      "residence": "Parent\u0027s Apartment"
     },
     "education": {
       "level": "B.Sc",
       "employmentStatus": "Employed",
       "sector": "FinTech",
       "duration": "2 years",
-      "officeEmail": "office75@lendsqr.com",
-      "monthlyIncome": "?200,000.00 - ?400,000.00",
+      "officeEmail": "office75@elitemail.com",
+      "monthlyIncome": "₦200,000.00 - ₦400,000.00",
       "loanRepayment": "40,000"
     },
     "socials": {
       "twitter": "@user",
       "facebook": "User Name",
       "instagram": "@user"
-    }
+    },
+    "role": "Moderator"
   },
   {
     "id": "76",
@@ -2338,22 +2413,23 @@
       "gender": "Female",
       "maritalStatus": "Single",
       "children": "None",
-      "residence": "Parent's Apartment"
+      "residence": "Parent\u0027s Apartment"
     },
     "education": {
       "level": "B.Sc",
       "employmentStatus": "Employed",
       "sector": "FinTech",
       "duration": "2 years",
-      "officeEmail": "office76@lendsqr.com",
-      "monthlyIncome": "?200,000.00 - ?400,000.00",
+      "officeEmail": "office76@elitemail.com",
+      "monthlyIncome": "₦200,000.00 - ₦400,000.00",
       "loanRepayment": "40,000"
     },
     "socials": {
       "twitter": "@user",
       "facebook": "User Name",
       "instagram": "@user"
-    }
+    },
+    "role": "User"
   },
   {
     "id": "77",
@@ -2369,22 +2445,23 @@
       "gender": "Male",
       "maritalStatus": "Single",
       "children": "None",
-      "residence": "Parent's Apartment"
+      "residence": "Parent\u0027s Apartment"
     },
     "education": {
       "level": "B.Sc",
       "employmentStatus": "Employed",
       "sector": "FinTech",
       "duration": "2 years",
-      "officeEmail": "office77@lendsqr.com",
-      "monthlyIncome": "?200,000.00 - ?400,000.00",
+      "officeEmail": "office77@elitemail.com",
+      "monthlyIncome": "₦200,000.00 - ₦400,000.00",
       "loanRepayment": "40,000"
     },
     "socials": {
       "twitter": "@user",
       "facebook": "User Name",
       "instagram": "@user"
-    }
+    },
+    "role": "Guest"
   },
   {
     "id": "78",
@@ -2400,22 +2477,23 @@
       "gender": "Female",
       "maritalStatus": "Single",
       "children": "None",
-      "residence": "Parent's Apartment"
+      "residence": "Parent\u0027s Apartment"
     },
     "education": {
       "level": "B.Sc",
       "employmentStatus": "Employed",
       "sector": "FinTech",
       "duration": "2 years",
-      "officeEmail": "office78@lendsqr.com",
-      "monthlyIncome": "?200,000.00 - ?400,000.00",
+      "officeEmail": "office78@elitemail.com",
+      "monthlyIncome": "₦200,000.00 - ₦400,000.00",
       "loanRepayment": "40,000"
     },
     "socials": {
       "twitter": "@user",
       "facebook": "User Name",
       "instagram": "@user"
-    }
+    },
+    "role": "Guest"
   },
   {
     "id": "79",
@@ -2431,22 +2509,23 @@
       "gender": "Male",
       "maritalStatus": "Single",
       "children": "None",
-      "residence": "Parent's Apartment"
+      "residence": "Parent\u0027s Apartment"
     },
     "education": {
       "level": "B.Sc",
       "employmentStatus": "Employed",
       "sector": "FinTech",
       "duration": "2 years",
-      "officeEmail": "office79@lendsqr.com",
-      "monthlyIncome": "?200,000.00 - ?400,000.00",
+      "officeEmail": "office79@elitemail.com",
+      "monthlyIncome": "₦200,000.00 - ₦400,000.00",
       "loanRepayment": "40,000"
     },
     "socials": {
       "twitter": "@user",
       "facebook": "User Name",
       "instagram": "@user"
-    }
+    },
+    "role": "Moderator"
   },
   {
     "id": "80",
@@ -2462,22 +2541,23 @@
       "gender": "Female",
       "maritalStatus": "Single",
       "children": "None",
-      "residence": "Parent's Apartment"
+      "residence": "Parent\u0027s Apartment"
     },
     "education": {
       "level": "B.Sc",
       "employmentStatus": "Employed",
       "sector": "FinTech",
       "duration": "2 years",
-      "officeEmail": "office80@lendsqr.com",
-      "monthlyIncome": "?200,000.00 - ?400,000.00",
+      "officeEmail": "office80@elitemail.com",
+      "monthlyIncome": "₦200,000.00 - ₦400,000.00",
       "loanRepayment": "40,000"
     },
     "socials": {
       "twitter": "@user",
       "facebook": "User Name",
       "instagram": "@user"
-    }
+    },
+    "role": "Moderator"
   },
   {
     "id": "81",
@@ -2493,22 +2573,23 @@
       "gender": "Male",
       "maritalStatus": "Single",
       "children": "None",
-      "residence": "Parent's Apartment"
+      "residence": "Parent\u0027s Apartment"
     },
     "education": {
       "level": "B.Sc",
       "employmentStatus": "Employed",
       "sector": "FinTech",
       "duration": "2 years",
-      "officeEmail": "office81@lendsqr.com",
-      "monthlyIncome": "?200,000.00 - ?400,000.00",
+      "officeEmail": "office81@elitemail.com",
+      "monthlyIncome": "₦200,000.00 - ₦400,000.00",
       "loanRepayment": "40,000"
     },
     "socials": {
       "twitter": "@user",
       "facebook": "User Name",
       "instagram": "@user"
-    }
+    },
+    "role": "Moderator"
   },
   {
     "id": "82",
@@ -2524,22 +2605,23 @@
       "gender": "Female",
       "maritalStatus": "Single",
       "children": "None",
-      "residence": "Parent's Apartment"
+      "residence": "Parent\u0027s Apartment"
     },
     "education": {
       "level": "B.Sc",
       "employmentStatus": "Employed",
       "sector": "FinTech",
       "duration": "2 years",
-      "officeEmail": "office82@lendsqr.com",
-      "monthlyIncome": "?200,000.00 - ?400,000.00",
+      "officeEmail": "office82@elitemail.com",
+      "monthlyIncome": "₦200,000.00 - ₦400,000.00",
       "loanRepayment": "40,000"
     },
     "socials": {
       "twitter": "@user",
       "facebook": "User Name",
       "instagram": "@user"
-    }
+    },
+    "role": "Guest"
   },
   {
     "id": "83",
@@ -2555,22 +2637,23 @@
       "gender": "Male",
       "maritalStatus": "Single",
       "children": "None",
-      "residence": "Parent's Apartment"
+      "residence": "Parent\u0027s Apartment"
     },
     "education": {
       "level": "B.Sc",
       "employmentStatus": "Employed",
       "sector": "FinTech",
       "duration": "2 years",
-      "officeEmail": "office83@lendsqr.com",
-      "monthlyIncome": "?200,000.00 - ?400,000.00",
+      "officeEmail": "office83@elitemail.com",
+      "monthlyIncome": "₦200,000.00 - ₦400,000.00",
       "loanRepayment": "40,000"
     },
     "socials": {
       "twitter": "@user",
       "facebook": "User Name",
       "instagram": "@user"
-    }
+    },
+    "role": "User"
   },
   {
     "id": "84",
@@ -2586,22 +2669,23 @@
       "gender": "Female",
       "maritalStatus": "Single",
       "children": "None",
-      "residence": "Parent's Apartment"
+      "residence": "Parent\u0027s Apartment"
     },
     "education": {
       "level": "B.Sc",
       "employmentStatus": "Employed",
       "sector": "FinTech",
       "duration": "2 years",
-      "officeEmail": "office84@lendsqr.com",
-      "monthlyIncome": "?200,000.00 - ?400,000.00",
+      "officeEmail": "office84@elitemail.com",
+      "monthlyIncome": "₦200,000.00 - ₦400,000.00",
       "loanRepayment": "40,000"
     },
     "socials": {
       "twitter": "@user",
       "facebook": "User Name",
       "instagram": "@user"
-    }
+    },
+    "role": "Moderator"
   },
   {
     "id": "85",
@@ -2617,22 +2701,23 @@
       "gender": "Male",
       "maritalStatus": "Single",
       "children": "None",
-      "residence": "Parent's Apartment"
+      "residence": "Parent\u0027s Apartment"
     },
     "education": {
       "level": "B.Sc",
       "employmentStatus": "Employed",
       "sector": "FinTech",
       "duration": "2 years",
-      "officeEmail": "office85@lendsqr.com",
-      "monthlyIncome": "?200,000.00 - ?400,000.00",
+      "officeEmail": "office85@elitemail.com",
+      "monthlyIncome": "₦200,000.00 - ₦400,000.00",
       "loanRepayment": "40,000"
     },
     "socials": {
       "twitter": "@user",
       "facebook": "User Name",
       "instagram": "@user"
-    }
+    },
+    "role": "User"
   },
   {
     "id": "86",
@@ -2648,22 +2733,23 @@
       "gender": "Female",
       "maritalStatus": "Single",
       "children": "None",
-      "residence": "Parent's Apartment"
+      "residence": "Parent\u0027s Apartment"
     },
     "education": {
       "level": "B.Sc",
       "employmentStatus": "Employed",
       "sector": "FinTech",
       "duration": "2 years",
-      "officeEmail": "office86@lendsqr.com",
-      "monthlyIncome": "?200,000.00 - ?400,000.00",
+      "officeEmail": "office86@elitemail.com",
+      "monthlyIncome": "₦200,000.00 - ₦400,000.00",
       "loanRepayment": "40,000"
     },
     "socials": {
       "twitter": "@user",
       "facebook": "User Name",
       "instagram": "@user"
-    }
+    },
+    "role": "Guest"
   },
   {
     "id": "87",
@@ -2679,22 +2765,23 @@
       "gender": "Male",
       "maritalStatus": "Single",
       "children": "None",
-      "residence": "Parent's Apartment"
+      "residence": "Parent\u0027s Apartment"
     },
     "education": {
       "level": "B.Sc",
       "employmentStatus": "Employed",
       "sector": "FinTech",
       "duration": "2 years",
-      "officeEmail": "office87@lendsqr.com",
-      "monthlyIncome": "?200,000.00 - ?400,000.00",
+      "officeEmail": "office87@elitemail.com",
+      "monthlyIncome": "₦200,000.00 - ₦400,000.00",
       "loanRepayment": "40,000"
     },
     "socials": {
       "twitter": "@user",
       "facebook": "User Name",
       "instagram": "@user"
-    }
+    },
+    "role": "Moderator"
   },
   {
     "id": "88",
@@ -2710,22 +2797,23 @@
       "gender": "Female",
       "maritalStatus": "Single",
       "children": "None",
-      "residence": "Parent's Apartment"
+      "residence": "Parent\u0027s Apartment"
     },
     "education": {
       "level": "B.Sc",
       "employmentStatus": "Employed",
       "sector": "FinTech",
       "duration": "2 years",
-      "officeEmail": "office88@lendsqr.com",
-      "monthlyIncome": "?200,000.00 - ?400,000.00",
+      "officeEmail": "office88@elitemail.com",
+      "monthlyIncome": "₦200,000.00 - ₦400,000.00",
       "loanRepayment": "40,000"
     },
     "socials": {
       "twitter": "@user",
       "facebook": "User Name",
       "instagram": "@user"
-    }
+    },
+    "role": "User"
   },
   {
     "id": "89",
@@ -2741,22 +2829,23 @@
       "gender": "Male",
       "maritalStatus": "Single",
       "children": "None",
-      "residence": "Parent's Apartment"
+      "residence": "Parent\u0027s Apartment"
     },
     "education": {
       "level": "B.Sc",
       "employmentStatus": "Employed",
       "sector": "FinTech",
       "duration": "2 years",
-      "officeEmail": "office89@lendsqr.com",
-      "monthlyIncome": "?200,000.00 - ?400,000.00",
+      "officeEmail": "office89@elitemail.com",
+      "monthlyIncome": "₦200,000.00 - ₦400,000.00",
       "loanRepayment": "40,000"
     },
     "socials": {
       "twitter": "@user",
       "facebook": "User Name",
       "instagram": "@user"
-    }
+    },
+    "role": "Moderator"
   },
   {
     "id": "90",
@@ -2772,22 +2861,23 @@
       "gender": "Female",
       "maritalStatus": "Single",
       "children": "None",
-      "residence": "Parent's Apartment"
+      "residence": "Parent\u0027s Apartment"
     },
     "education": {
       "level": "B.Sc",
       "employmentStatus": "Employed",
       "sector": "FinTech",
       "duration": "2 years",
-      "officeEmail": "office90@lendsqr.com",
-      "monthlyIncome": "?200,000.00 - ?400,000.00",
+      "officeEmail": "office90@elitemail.com",
+      "monthlyIncome": "₦200,000.00 - ₦400,000.00",
       "loanRepayment": "40,000"
     },
     "socials": {
       "twitter": "@user",
       "facebook": "User Name",
       "instagram": "@user"
-    }
+    },
+    "role": "User"
   },
   {
     "id": "91",
@@ -2803,22 +2893,23 @@
       "gender": "Male",
       "maritalStatus": "Single",
       "children": "None",
-      "residence": "Parent's Apartment"
+      "residence": "Parent\u0027s Apartment"
     },
     "education": {
       "level": "B.Sc",
       "employmentStatus": "Employed",
       "sector": "FinTech",
       "duration": "2 years",
-      "officeEmail": "office91@lendsqr.com",
-      "monthlyIncome": "?200,000.00 - ?400,000.00",
+      "officeEmail": "office91@elitemail.com",
+      "monthlyIncome": "₦200,000.00 - ₦400,000.00",
       "loanRepayment": "40,000"
     },
     "socials": {
       "twitter": "@user",
       "facebook": "User Name",
       "instagram": "@user"
-    }
+    },
+    "role": "Guest"
   },
   {
     "id": "92",
@@ -2834,22 +2925,23 @@
       "gender": "Female",
       "maritalStatus": "Single",
       "children": "None",
-      "residence": "Parent's Apartment"
+      "residence": "Parent\u0027s Apartment"
     },
     "education": {
       "level": "B.Sc",
       "employmentStatus": "Employed",
       "sector": "FinTech",
       "duration": "2 years",
-      "officeEmail": "office92@lendsqr.com",
-      "monthlyIncome": "?200,000.00 - ?400,000.00",
+      "officeEmail": "office92@elitemail.com",
+      "monthlyIncome": "₦200,000.00 - ₦400,000.00",
       "loanRepayment": "40,000"
     },
     "socials": {
       "twitter": "@user",
       "facebook": "User Name",
       "instagram": "@user"
-    }
+    },
+    "role": "Moderator"
   },
   {
     "id": "93",
@@ -2865,22 +2957,23 @@
       "gender": "Male",
       "maritalStatus": "Single",
       "children": "None",
-      "residence": "Parent's Apartment"
+      "residence": "Parent\u0027s Apartment"
     },
     "education": {
       "level": "B.Sc",
       "employmentStatus": "Employed",
       "sector": "FinTech",
       "duration": "2 years",
-      "officeEmail": "office93@lendsqr.com",
-      "monthlyIncome": "?200,000.00 - ?400,000.00",
+      "officeEmail": "office93@elitemail.com",
+      "monthlyIncome": "₦200,000.00 - ₦400,000.00",
       "loanRepayment": "40,000"
     },
     "socials": {
       "twitter": "@user",
       "facebook": "User Name",
       "instagram": "@user"
-    }
+    },
+    "role": "Moderator"
   },
   {
     "id": "94",
@@ -2896,22 +2989,23 @@
       "gender": "Female",
       "maritalStatus": "Single",
       "children": "None",
-      "residence": "Parent's Apartment"
+      "residence": "Parent\u0027s Apartment"
     },
     "education": {
       "level": "B.Sc",
       "employmentStatus": "Employed",
       "sector": "FinTech",
       "duration": "2 years",
-      "officeEmail": "office94@lendsqr.com",
-      "monthlyIncome": "?200,000.00 - ?400,000.00",
+      "officeEmail": "office94@elitemail.com",
+      "monthlyIncome": "₦200,000.00 - ₦400,000.00",
       "loanRepayment": "40,000"
     },
     "socials": {
       "twitter": "@user",
       "facebook": "User Name",
       "instagram": "@user"
-    }
+    },
+    "role": "Moderator"
   },
   {
     "id": "95",
@@ -2927,22 +3021,23 @@
       "gender": "Male",
       "maritalStatus": "Single",
       "children": "None",
-      "residence": "Parent's Apartment"
+      "residence": "Parent\u0027s Apartment"
     },
     "education": {
       "level": "B.Sc",
       "employmentStatus": "Employed",
       "sector": "FinTech",
       "duration": "2 years",
-      "officeEmail": "office95@lendsqr.com",
-      "monthlyIncome": "?200,000.00 - ?400,000.00",
+      "officeEmail": "office95@elitemail.com",
+      "monthlyIncome": "₦200,000.00 - ₦400,000.00",
       "loanRepayment": "40,000"
     },
     "socials": {
       "twitter": "@user",
       "facebook": "User Name",
       "instagram": "@user"
-    }
+    },
+    "role": "Guest"
   },
   {
     "id": "96",
@@ -2958,22 +3053,23 @@
       "gender": "Female",
       "maritalStatus": "Single",
       "children": "None",
-      "residence": "Parent's Apartment"
+      "residence": "Parent\u0027s Apartment"
     },
     "education": {
       "level": "B.Sc",
       "employmentStatus": "Employed",
       "sector": "FinTech",
       "duration": "2 years",
-      "officeEmail": "office96@lendsqr.com",
-      "monthlyIncome": "?200,000.00 - ?400,000.00",
+      "officeEmail": "office96@elitemail.com",
+      "monthlyIncome": "₦200,000.00 - ₦400,000.00",
       "loanRepayment": "40,000"
     },
     "socials": {
       "twitter": "@user",
       "facebook": "User Name",
       "instagram": "@user"
-    }
+    },
+    "role": "Moderator"
   },
   {
     "id": "97",
@@ -2989,22 +3085,23 @@
       "gender": "Male",
       "maritalStatus": "Single",
       "children": "None",
-      "residence": "Parent's Apartment"
+      "residence": "Parent\u0027s Apartment"
     },
     "education": {
       "level": "B.Sc",
       "employmentStatus": "Employed",
       "sector": "FinTech",
       "duration": "2 years",
-      "officeEmail": "office97@lendsqr.com",
-      "monthlyIncome": "?200,000.00 - ?400,000.00",
+      "officeEmail": "office97@elitemail.com",
+      "monthlyIncome": "₦200,000.00 - ₦400,000.00",
       "loanRepayment": "40,000"
     },
     "socials": {
       "twitter": "@user",
       "facebook": "User Name",
       "instagram": "@user"
-    }
+    },
+    "role": "User"
   },
   {
     "id": "98",
@@ -3020,22 +3117,23 @@
       "gender": "Female",
       "maritalStatus": "Single",
       "children": "None",
-      "residence": "Parent's Apartment"
+      "residence": "Parent\u0027s Apartment"
     },
     "education": {
       "level": "B.Sc",
       "employmentStatus": "Employed",
       "sector": "FinTech",
       "duration": "2 years",
-      "officeEmail": "office98@lendsqr.com",
-      "monthlyIncome": "?200,000.00 - ?400,000.00",
+      "officeEmail": "office98@elitemail.com",
+      "monthlyIncome": "₦200,000.00 - ₦400,000.00",
       "loanRepayment": "40,000"
     },
     "socials": {
       "twitter": "@user",
       "facebook": "User Name",
       "instagram": "@user"
-    }
+    },
+    "role": "User"
   },
   {
     "id": "99",
@@ -3051,22 +3149,23 @@
       "gender": "Male",
       "maritalStatus": "Single",
       "children": "None",
-      "residence": "Parent's Apartment"
+      "residence": "Parent\u0027s Apartment"
     },
     "education": {
       "level": "B.Sc",
       "employmentStatus": "Employed",
       "sector": "FinTech",
       "duration": "2 years",
-      "officeEmail": "office99@lendsqr.com",
-      "monthlyIncome": "?200,000.00 - ?400,000.00",
+      "officeEmail": "office99@elitemail.com",
+      "monthlyIncome": "₦200,000.00 - ₦400,000.00",
       "loanRepayment": "40,000"
     },
     "socials": {
       "twitter": "@user",
       "facebook": "User Name",
       "instagram": "@user"
-    }
+    },
+    "role": "Guest"
   },
   {
     "id": "100",
@@ -3082,21 +3181,22 @@
       "gender": "Female",
       "maritalStatus": "Single",
       "children": "None",
-      "residence": "Parent's Apartment"
+      "residence": "Parent\u0027s Apartment"
     },
     "education": {
       "level": "B.Sc",
       "employmentStatus": "Employed",
       "sector": "FinTech",
       "duration": "2 years",
-      "officeEmail": "office100@lendsqr.com",
-      "monthlyIncome": "?200,000.00 - ?400,000.00",
+      "officeEmail": "office100@elitemail.com",
+      "monthlyIncome": "₦200,000.00 - ₦400,000.00",
       "loanRepayment": "40,000"
     },
     "socials": {
       "twitter": "@user",
       "facebook": "User Name",
       "instagram": "@user"
-    }
+    },
+    "role": "Moderator"
   }
 ]

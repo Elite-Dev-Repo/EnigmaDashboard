@@ -8,11 +8,13 @@ import Dashboard from "./Dashboard.tsx";
 import Users from "./Users.tsx";
 import UsersDetails from "./UsersDetails.tsx";
 import Analytics from "./Analytics.tsx";
+import Error from "./Error.tsx";
 
 const router = createBrowserRouter([
   {
     path: "/",
     element: <Dashboard />,
+    errorElement: <Error />,
   },
   {
     path: "/analytics",

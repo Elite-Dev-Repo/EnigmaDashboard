@@ -32,71 +32,35 @@ export const columns: ColumnDef<Payment>[] = [
             <ListFilter size={14} className="cursor-pointer text-primary" />
           </PopoverTrigger>
           <PopoverContent className="w-[270px] p-5 flex flex-col gap-4 shadow-xl border-border bg-white z-50">
-            {/* Organization Field */}
-            <div className="flex flex-col gap-2">
-              <label className="text-[14px] font-medium text-secondary">
-                Organization
-              </label>
-              <select className="border border-border rounded-md p-2 text-sm text-secondary outline-none bg-transparent h-10">
-                <option value="">Select</option>
-                <option value="Lendsqr">Enigma</option>
-                <option value="Irorun">Elite DEV</option>
-              </select>
-            </div>
-
-            {/* Username Field */}
-            <div className="flex flex-col gap-2">
-              <label className="text-[14px] font-medium text-secondary">
-                Username
-              </label>
-              <input
-                type="text"
-                placeholder="User"
-                className="border border-border rounded-md p-2 text-sm text-secondary outline-none h-10"
-              />
-            </div>
-
             {/* Email Field */}
             <div className="flex flex-col gap-2">
-              <label className="text-[14px] font-medium text-secondary">
+              <label className="text-[14px] font-medium text-foreground">
                 Email
               </label>
               <input
                 type="email"
                 placeholder="Email"
-                className="border border-border rounded-md p-2 text-sm text-secondary outline-none h-10"
+                className="border border-border rounded-md p-2 text-sm text-foreground outline-none h-10"
               />
             </div>
 
             {/* Date Field */}
             <div className="flex flex-col gap-2">
-              <label className="text-[14px] font-medium text-secondary">
+              <label className="text-[14px] font-medium text-foreground">
                 Date
               </label>
               <input
                 type="date"
-                className="border border-border rounded-md p-2 text-sm text-secondary outline-none h-10"
-              />
-            </div>
-
-            {/* Phone Number Field */}
-            <div className="flex flex-col gap-2">
-              <label className="text-[14px] font-medium text-secondary">
-                Phone Number
-              </label>
-              <input
-                type="text"
-                placeholder="Phone Number"
-                className="border border-border rounded-md p-2 text-sm text-secondary outline-none h-10"
+                className="border border-border rounded-md p-2 text-sm text-foreground outline-none h-10"
               />
             </div>
 
             {/* Status Field */}
             <div className="flex flex-col gap-2">
-              <label className="text-[14px] font-medium text-secondary">
+              <label className="text-[14px] font-medium text-foreground">
                 Status
               </label>
-              <select className="border border-border rounded-md p-2 text-sm text-secondary outline-none bg-transparent h-10">
+              <select className="border border-border rounded-md p-2 text-sm text-foreground outline-none bg-transparent h-10">
                 <option value="">Select</option>
                 <option value="active">Active</option>
                 <option value="pending">Pending</option>
@@ -109,11 +73,11 @@ export const columns: ColumnDef<Payment>[] = [
             <div className="flex items-center gap-3 mt-2">
               <Button
                 variant="outline"
-                className="flex-1 border-secondary text-secondary hover:bg-background font-semibold"
+                className="flex-1 border-foreground text-primary hover:text-primary hover:bg-background font-semibold"
               >
                 Reset
               </Button>
-              <Button className="flex-1 bg-primary text-white hover:bg-primary/90 font-semibold">
+              <Button className="flex-1 bg-primary text-foreground hover:bg-primary/90 font-semibold">
                 Filter
               </Button>
             </div>

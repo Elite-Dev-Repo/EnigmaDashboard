@@ -3,8 +3,7 @@
 import Nav from "./components/Nav.tsx";
 import Mysidebar from "./components/Mysidebar.tsx";
 import { MoveLeft } from "lucide-react";
-import profile from "./assets/profile.png";
-import { Avatar, AvatarFallback, AvatarImage } from "@/components/ui/avatar";
+import { Avatar, AvatarFallback } from "@/components/ui/avatar";
 import toast, { Toaster } from "react-hot-toast";
 
 const DetailSection = ({
