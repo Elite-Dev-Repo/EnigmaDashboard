@@ -33,6 +33,8 @@ const DetailSection = ({
   </div>
 );
 function Users() {
+  const username = "Elite DEV";
+
   // Re-structured data for easier mapping
   const UserInfo1 = [
     {
@@ -54,13 +56,13 @@ function Users() {
     {
       title: "Education and Employment",
       details: [
-        { label: "LEVEL OF EDUCATION", value: "B.Sc" },
+        { label: "LEVEL OF EDUCATION", value: "B.A" },
         { label: "EMPLOYMENT STATUS", value: "Employed" },
-        { label: "SECTOR OF EMPLOYMENT", value: "FinTech" },
+        { label: "SECTOR OF EMPLOYMENT", value: "Web Development" },
         { label: "DURATION OF EMPLOYMENT", value: "2 years" },
-        { label: "OFFICE EMAIL", value: "elitedeveloper@lendsqr.com" },
-        { label: "MONTHLY INCOME", value: "₦200,000.00 - ₦400,000.00" },
-        { label: "LOAN REPAYMENT", value: "40,000" },
+        { label: "OFFICE EMAIL", value: "oyenekant0miwa@@gmail.com" },
+        { label: "MONTHLY INCOME", value: "₦500,000.00 - ₦1,000,000.00" },
+        { label: "LOAN REPAYMENT", value: "₦0.00" },
       ],
     },
   ];
@@ -134,19 +136,23 @@ function Users() {
           <div className="bg-background p-6 rounded-sm w-full mt-6 shadow-sm border border-border relative">
             <div className="flex flex-wrap items-center gap-8 mb-10">
               <div className="flex items-center gap-4 pr-8 border-r border-gray-200">
-                <Avatar className="h-24 w-24">
-                  <AvatarImage src={profile} />
-                  <AvatarFallback>GE</AvatarFallback>
+                <Avatar className="h-14 w-14">
+                  {/* <AvatarImage src={profile} /> */}
+                  <AvatarFallback className="text-primary text-2xl bg-foreground">
+                    {username[0]}
+                  </AvatarFallback>
                 </Avatar>
                 <div>
-                  <h2 className="text-primary font-bold text-2xl">Elite DEV</h2>
+                  <h2 className="text-primary font-bold text-2xl">
+                    {username}
+                  </h2>
                   <p className="text-[14px] text-primary">@elite_developer</p>
                 </div>
               </div>
 
               <div className="flex flex-col gap-1 px-8 border-r border-gray-200">
                 <h3 className="text-primary text-[14px] font-medium">
-                  User's Tier
+                  User's Role
                 </h3>
                 <span className="flex items-center gap-1 text-[14px]">
                   <i className="fa-solid fa-star text-yellow-500"></i>

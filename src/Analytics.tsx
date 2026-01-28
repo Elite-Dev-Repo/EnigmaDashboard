@@ -10,11 +10,11 @@ const Analytics = () => {
       <Nav></Nav>
       <Mysidebar>
         <div className="flex flex-col gap-4">
-          <div className="flex items-center gap-4 p-5 mx-auto w-full">
+          <div className="flex items-center gap-4 p-5 mx-auto w-full max-md:flex-col max-md:gap-2 max-md:p-0 ">
             <ChartAreaGradient />
             <ChartBarMultiple />
           </div>
-          <div className="p-5 mx-auto w-full">
+          <div className="p-5 mx-auto w-full max-md:p-0">
             <ChartAreaInteractive />
           </div>
         </div>

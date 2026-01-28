@@ -145,3 +145,23 @@
     @apply bg-background text-foreground;
   }
 }
+.itemm {
+  transition: 300ms;
+}
+.itemm:active {
+  background-color: #000;
+  color: whitesmoke;
+}
+.itemm:hover::after {
+  height: 100%;
+  transition: 300ms;
+}
+
+.itemm::after {
+  content: "";
+  position: absolute;
+  background: white;
+  height: 0%;
+  width: 2px;
+  right: 0;
+}

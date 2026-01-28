@@ -1,13 +1,11 @@
 "use client";
 
-import { TrendingUp } from "lucide-react";
 import { Bar, BarChart, CartesianGrid, XAxis } from "recharts";
 
 import {
   Card,
   CardContent,
   CardDescription,
-  CardFooter,
   CardHeader,
   CardTitle,
 } from "@/components/ui/card";
@@ -43,10 +41,12 @@ const chartConfig = {
 export function ChartBarMultiple() {
   return (
     <Card className="flex-1 bg-background">
-      <CardHeader>
-        <CardTitle className="text-primary">Bar Chart - Multiple</CardTitle>
+      <CardHeader className="flex items-center justify-around">
+        <CardTitle className="text-primary">
+          Total Site Views and interactions
+        </CardTitle>
         <CardDescription className="text-primary/40">
-          January - June {new Date().getFullYear()}
+          January {new Date().getFullYear()}
         </CardDescription>
       </CardHeader>
       <CardContent>
@@ -65,19 +65,11 @@ export function ChartBarMultiple() {
               cursor={false}
               content={<ChartTooltipContent indicator="dashed" />}
             />
-            <Bar dataKey="desktop" fill="#10b981" radius={4} />
-            <Bar dataKey="mobile" fill="#8b5cf6" radius={4} />
+            <Bar dataKey="desktop" fill="#10b981" radius={5} />
+            <Bar dataKey="mobile" fill="#8b5cf6" radius={5} />
           </BarChart>
         </ChartContainer>
       </CardContent>
-      <CardFooter className="flex-col items-start gap-2 text-sm">
-        <div className="flex gap-2 leading-none text-primary font-medium">
-          Trending up by 5.2% this month <TrendingUp className="h-4 w-4" />
-        </div>
-        <div className="text-muted-foreground leading-none">
-          Showing total visitors for the last 6 months
-        </div>
-      </CardFooter>
     </Card>
   );
 }

@@ -60,22 +60,18 @@ const UsersDetails = () => {
             <h1 className="text-2xl font-semibold text-primary">
               User Details
             </h1>
-            <div className="flex gap-4">
+            <div className="flex gap-4 items-center">
               <button
-                className="px-6 py-2 border border-red-500 text-red-500 rounded-md text-[14px] font-semibold hover:bg-red-50 transition-colors"
-                onClick={() => {
-                  toast.success("User Blacklisted");
-                }}
+                className="px-5 py-2 rounded-md border border-red-500 text-red-500 uppercase text-[12px] font-bold tracking-wider hover:bg-red-50 transition-colors"
+                onClick={() => toast.success("User Blacklisted")}
               >
-                BLACKLIST USER
+                Blacklist User
               </button>
               <button
-                className="px-6 py-2 border border-primary text-primary rounded-md text-[14px] font-semibold hover:bg-teal-50 transition-colors"
-                onClick={() => {
-                  toast.success("User Activated");
-                }}
+                className="px-5 py-2 rounded-md border border-primary text-chart-2 uppercase text-[12px] font-bold tracking-wider hover:bg-teal-50 transition-colors"
+                onClick={() => toast.success("User Activated")}
               >
-                ACTIVATE USER
+                Activate User
               </button>
             </div>
           </div>
@@ -86,9 +82,11 @@ const UsersDetails = () => {
           <div className="bg-background p-6 rounded-sm shadow-sm border border-border mb-6">
             <div className="flex flex-col lg:flex-row items-center gap-6 lg:gap-8">
               <div className="flex flex-col sm:flex-row items-center text-center sm:text-left gap-5 lg:border-r lg:pr-8 border-gray-200 w-full lg:w-auto">
-                <Avatar className="w-20 h-20 md:w-24 md:h-24">
-                  <AvatarImage src={profile} />
-                  <AvatarFallback>UN</AvatarFallback>
+                <Avatar className="w-20 h-20 md:w-14 md:h-14">
+                  {/* <AvatarImage src={profile} /> */}
+                  <AvatarFallback className="text-primary text-2xl bg-foreground">
+                    {user.username[0]}
+                  </AvatarFallback>
                 </Avatar>
                 <div>
                   <h2 className="text-xl font-bold capitalize text-primary">
@@ -99,7 +97,7 @@ const UsersDetails = () => {
               </div>
 
               <div className="lg:border-r px-8 border-gray-200 text-center w-full lg:w-auto">
-                <p className="text-sm text-primary font-medium">User's Tier</p>
+                <p className="text-sm text-primary font-medium">User's Role</p>
                 <div className="flex justify-center gap-1 mt-2 text-yellow-500">
                   <Star size={16} fill="currentColor" />
                   <Star size={16} className="text-gray-300" />

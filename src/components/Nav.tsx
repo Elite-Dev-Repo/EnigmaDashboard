@@ -1,5 +1,5 @@
 import logo from "../assets/logo1.png";
-import { Bell, ChevronDown, Search } from "lucide-react";
+import { Bell, ChevronDown, Search, ArrowRight } from "lucide-react";
 import profile from "../assets/profile.png";
 import {
   DropdownMenu,
@@ -11,22 +11,28 @@ import { BadgeCheckIcon, LogOutIcon } from "lucide-react";
 import { Avatar, AvatarFallback, AvatarImage } from "@/components/ui/avatar";
 
 const Nav = () => {
+  const username = " Elite DEV";
   return (
     <header className="w-full h-[80px] sticky top-0 z-50 shadow-sm bg-background px-4 md:px-10">
       <nav className="h-full w-full flex items-center justify-between">
         <div className="flex items-center gap-4">
-          <img src={logo} alt="logo" className="w-[120px] md:w-[160px]" />
+          <a href="/">
+            <img src={logo} alt="logo" className="w-[120px] md:w-[160px]" />
+          </a>
         </div>
 
         {/* Search - Hidden on Mobile */}
-        <div className="hidden md:flex items-center gap-2 border border-border rounded-sm w-[40%] max-w-[400px] overflow-hidden">
+        <div className="hidden md:flex items-center gap-2 border border-border rounded-sm w-[40%] max-w-[400px] overflow-hidden bg-foreground">
+          <span className="text-primary pl-2 opacity-30">
+            <Search size={15} />
+          </span>
           <input
             type="search"
             placeholder="Search for anything"
             className="outline-none px-4 py-2 text-md font-light w-full text-primary"
           />
-          <button className="bg-foreground text-white px-5 py-2.5">
-            <Search size={18} />
+          <button className="bg-foreground border-l cursor-pointer text-white px-5 py-2.5">
+            <ArrowRight size={18} />
           </button>
         </div>
 
@@ -36,12 +42,14 @@ const Nav = () => {
           <DropdownMenu>
             <DropdownMenuTrigger asChild>
               <div className="flex items-center gap-2 cursor-pointer outline-none">
-                <Avatar className="h-8 w-8 md:h-10 md:w-10">
-                  <AvatarImage src={profile} />
-                  <AvatarFallback>PF</AvatarFallback>
+                <Avatar className="h-8 w-8 md:h-10 md:w-10 ">
+                  {/* <AvatarImage src={profile} /> */}
+                  <AvatarFallback className="text-primary bg-foreground">
+                    {username[1]}
+                  </AvatarFallback>
                 </Avatar>
                 <p className="hidden md:flex items-center gap-2 text-primary font-medium">
-                  Elite DEV <ChevronDown size={14} />
+                  {username} <ChevronDown size={14} />
                 </p>
               </div>
             </DropdownMenuTrigger>

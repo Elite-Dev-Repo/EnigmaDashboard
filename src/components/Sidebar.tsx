@@ -66,7 +66,7 @@ function Sidebar() {
       <ShadSidebar className="mt-[80px]">
         <SidebarContent className="bg-background flex gap-5 text-primary overflow-y-auto scrollbar-hide [-ms-overflow-style:none] [scrollbar-width:none] [&::-webkit-scrollbar]:hidden">
           <SidebarHeader className="">
-            <a href="dashboard">
+            <a href="/">
               <h3 className="flex items-center mt-5 justify-start px-2 font-light gap-4 text-2xl ">
                 {" "}
                 <LayoutDashboard size={20} /> Dashboard{" "}
@@ -82,7 +82,7 @@ function Sidebar() {
                   <SidebarMenuItem key={item.label}>
                     <SidebarMenuButton
                       asChild
-                      className="text-primary/60 font-light hover:text-foreground hover:bg-primary rounded-none py-5"
+                      className="itemm text-primary/60 font-light hover:text-primary hover:bg-foreground rounded-none py-5"
                     >
                       <a href={item.link || "#"} className="px-2 ">
                         {item.icon}

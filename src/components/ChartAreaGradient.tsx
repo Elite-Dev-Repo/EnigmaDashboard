@@ -7,7 +7,6 @@ import {
   Card,
   CardContent,
   CardDescription,
-  CardFooter,
   CardHeader,
   CardTitle,
 } from "@/components/ui/card";
@@ -43,10 +42,12 @@ const chartConfig = {
 export function ChartAreaGradient() {
   return (
     <Card className="flex-1 bg-background">
-      <CardHeader>
-        <CardTitle className="text-primary">Area Chart - Gradient</CardTitle>
-        <CardDescription className="text-primary/40">
-          Showing total visitors for the last 6 months
+      <CardHeader className="flex items-center">
+        <CardTitle className="text-primary">
+          Culmulative Site Engagements
+        </CardTitle>
+        <CardDescription className="text-primary/40 flex items-center gap-3">
+          5.2% Increase this month <TrendingUp className="h-4 w-4" />
         </CardDescription>
       </CardHeader>
       <CardContent>
@@ -113,18 +114,6 @@ export function ChartAreaGradient() {
           </AreaChart>
         </ChartContainer>
       </CardContent>
-      <CardFooter>
-        <div className="flex w-full items-start gap-2 text-sm">
-          <div className="grid gap-2">
-            <div className="flex text-primary items-center gap-2 leading-none font-medium">
-              Trending up by 5.2% this month <TrendingUp className="h-4 w-4" />
-            </div>
-            <div className="text-muted-foreground flex items-center gap-2 leading-none">
-              January - June {new Date().getFullYear()}
-            </div>
-          </div>
-        </div>
-      </CardFooter>
     </Card>
   );
 }

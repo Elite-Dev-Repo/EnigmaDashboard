@@ -154,14 +154,12 @@ export function ChartAreaInteractive() {
   });
 
   return (
-    <Card className="pt-0 bg-background">
+    <Card className="pt-0 bg-background text-primary">
       <CardHeader className="flex items-center gap-2 space-y-0 border-b py-5 sm:flex-row">
         <div className="grid flex-1 gap-1">
-          <CardTitle className="text-primary">
-            Area Chart - Interactive
-          </CardTitle>
+          <CardTitle className="text-primary">All Time</CardTitle>
           <CardDescription className="text-primary/40">
-            Showing total visitors for the last 3 months
+            Showing total visitors since creation.
           </CardDescription>
         </div>
         <Select value={timeRange} onValueChange={setTimeRange}>
